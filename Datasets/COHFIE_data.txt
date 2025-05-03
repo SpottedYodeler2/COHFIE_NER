@@ -1,0 +1,8652 @@
+[
+  [
+    "Tanyag si Henry Otley Beyer bilang isa sa mga nangunang Amerikanong antropologo na nag-ukol ng panahon sa pananaliksik at pagtuturo ng kulturang katutubo sa Pilipinas.",
+    {
+      "entities": [
+        [
+          10,
+          27,
+          "PER"
+        ],
+        [
+          56,
+          79,
+          "MISC"
+        ],
+        [
+          157,
+          166,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hindi lingid sa kaalaman ng mga iskolar ng antropolohiya at etnograpiya ang kaniyang nakahiligang pangongolekta ng mga arkeolohikal at etnograpikong espesimen at materyal na nagdulot upang magkaroon siya ng bulto ng mga personal na koleksyon.",
+    {
+      "entities": [
+        [
+          135,
+          158,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Isinilang si Beyer sa Edgewood, Iowa, at nagtapos sa Denver University, kung saan nag-aral siya ng kimika.",
+    {
+      "entities": [
+        [
+          13,
+          18,
+          "PER"
+        ],
+        [
+          22,
+          36,
+          "LOC"
+        ],
+        [
+          53,
+          70,
+          "LOC"
+        ],
+        [
+          99,
+          105,
+          "MISC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Noong dumating siya sa Pilipinas, at habang nagtatrabaho bilang guro, pinag-aralan ang mga Ifugao ng Banaue Valley ng hilagang Luzon.",
+    {
+      "entities": [
+        [
+          23,
+          32,
+          "LOC"
+        ],
+        [
+          91,
+          97,
+          "CUL"
+        ],
+        [
+          101,
+          114,
+          "LOC"
+        ],
+        [
+          118,
+          132,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Noong nagsagawa siya ng pananaliksik sa Asya, Hilagang Africa, at Europa at ipinagpatuloy ang pag-aaral sa antas gradwado ng programang antropolohiya sa Harvard University.",
+    {
+      "entities": [
+        [
+          40,
+          44,
+          "LOC"
+        ],
+        [
+          46,
+          61,
+          "LOC"
+        ],
+        [
+          66,
+          72,
+          "LOC"
+        ],
+        [
+          107,
+          121,
+          "MISC"
+        ],
+        [
+          136,
+          149,
+          "MISC"
+        ],
+        [
+          153,
+          171,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Noong bumalik siya sa Pilipinas at hinirang na etnologo sa Bureau of Science.",
+    {
+      "entities": [
+        [
+          22,
+          31,
+          "LOC"
+        ],
+        [
+          47,
+          55,
+          "MISC"
+        ],
+        [
+          59,
+          76,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Natutunan niya ang mga gawaing bukid mula sa mga Ifugao, Igorot, Apayao, Kalinga.",
+    {
+      "entities": [
+        [
+          49,
+          55,
+          "CUL"
+        ],
+        [
+          57,
+          63,
+          "CUL"
+        ],
+        [
+          65,
+          71,
+          "CUL"
+        ],
+        [
+          73,
+          80,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Noong ay naging kabahagi siya ng Unibersidad ng Pilipinas at itinatag ang Kagawaran ng Antropolohiya.",
+    {
+      "entities": [
+        [
+          33,
+          57,
+          "ORG"
+        ],
+        [
+          74,
+          100,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nagsilbing propesor ng Antropolohiya noong at hinawakan ang posisyon hanggang sa kaniyang pagretiro noong .",
+    {
+      "entities": [
+        [
+          23,
+          36,
+          "MISC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nanirahan siya sa Pilipinas hanggang sa kaniyang pagpanaw.",
+    {
+      "entities": [
+        [
+          18,
+          27,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bilang tagapanguna sa larangan ng antropolohiya sa Pilipinas, makabuluhan din ang kaniyang pangunahing mga kontribusyon sa larangan ng alamat, kaugalian na batas, arkeolohiya, sining, at heolohiya.",
+    {
+      "entities": [
+        [
+          51,
+          60,
+          "LOC"
+        ],
+        [
+          135,
+          141,
+          "CUL"
+        ],
+        [
+          176,
+          182,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kabilang sa kaniyang maraming publikasyon ay ang serye ng araling etnograpiko ng Pilipinas ( tomo –), tektites ng Pilipinas (–), at mga kuwentong bayan, paniniwala, tanyag na kaugalian, at tradisyon ( tomo –).",
+    {
+      "entities": [
+        [
+          81,
+          90,
+          "LOC"
+        ],
+        [
+          114,
+          123,
+          "LOC"
+        ],
+        [
+          136,
+          151,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Masigasig na kolektor si Beyer.",
+    {
+      "entities": [
+        [
+          13,
+          21,
+          "MISC"
+        ],
+        [
+          25,
+          30,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bilang karagdagan sa mga libro, polyeto, mapa, manuskrito at litrato, nakolekta rin niya ang mga arkeolohikal at etnograpikong espesimen, palayok ng Pilipinas, glazed wares at tektites ng Tsina.",
+    {
+      "entities": [
+        [
+          32,
+          39,
+          "CUL"
+        ],
+        [
+          138,
+          145,
+          "CUL"
+        ],
+        [
+          149,
+          158,
+          "LOC"
+        ],
+        [
+          176,
+          184,
+          "CUL"
+        ],
+        [
+          188,
+          193,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang koleksyon ng Beyer—na inilarawan bilang pinakamahusay na solong koleksyon ng mga artefact o yaring-tao, manuskrito, at dokumento ng Pilipinas ay naimbak sa maraming bahay na nirentahan ni Beyer sa distrito ng Ermita, Maynila.",
+    {
+      "entities": [
+        [
+          17,
+          22,
+          "PER"
+        ],
+        [
+          136,
+          145,
+          "LOC"
+        ],
+        [
+          192,
+          197,
+          "PER"
+        ],
+        [
+          213,
+          228,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Inilipat ang ilang bahagi nito sa Museum and Institute of Archaeology & Ethnology, Manila noong 1943, sa tulong ng noo’y mga awtoridad na Hapon; subalit nanatili itong isang pribadong koleksyon.",
+    {
+      "entities": [
+        [
+          34,
+          89,
+          "LOC"
+        ],
+        [
+          138,
+          143,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang gusali ay matatagpuan sa Kalye Jose P. Laurel sa distrito ng San Miguel, kasama ang Bureau of Census and Statistics sa unang palapag at ang koleksyong Beyer na sumasakop sa itaas na palapag.",
+    {
+      "entities": [
+        [
+          29,
+          49,
+          "LOC"
+        ],
+        [
+          65,
+          75,
+          "LOC"
+        ],
+        [
+          88,
+          119,
+          "ORG"
+        ],
+        [
+          144,
+          160,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang natitirang koleksyon ay nanatili sa tirahan ni Beyer sa Kalye Nebraska (ngayo’y Kalye Jorge Bocobo), ngunit sa kasamaang palad ay ganap na nawasak sanhi ng sunog.",
+    {
+      "entities": [
+        [
+          51,
+          56,
+          "PER"
+        ],
+        [
+          60,
+          74,
+          "LOC"
+        ],
+        [
+          84,
+          102,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kasunod ng kalamidad na ito, ginawa ni Beyer ang lahat na pagsisikap upang protektahan ang naiwan sa museo.",
+    {
+      "entities": [
+        [
+          39,
+          44,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kasunod sa sariling pagsusuri ni Beyer sa koleksyon, ang mga tektite ang naging pinakamatingkad, dahil naniniwala siya sa kanilang pinagmulang ekstraterestriyal.",
+    {
+      "entities": [
+        [
+          33,
+          38,
+          "PER"
+        ],
+        [
+          61,
+          68,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bunsod ng makabuluhang pagyabong ng koleksyon mula pa noong sinimulan ito nang taong 1926, ito ay naging pinakamalaking koleksyon ng tektite sa mundo sa kalagitnaan ng ika-20 siglo.",
+    {
+      "entities": [
+        [
+          133,
+          140,
+          "CUL"
+        ],
+        [
+          168,
+          180,
+          "MISC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kasama sa iba pa niyang mga koleksyon ang mga etnograpikong dokumento, arkeolohiko na artefact, at mga keramika o ceramics.",
+    {
+      "entities": [
+        [
+          46,
+          69,
+          "CUL"
+        ],
+        [
+          71,
+          94,
+          "CUL"
+        ],
+        [
+          103,
+          111,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Limampu’t walo mula sa kalipunan ng mga manuskrito sa sinupán ni Otley Beyer na makikita sa digital na koleksyon ng Pambansang Aklatan ng Pilipinas ang tungkol sa lalawigan ng Batangas.",
+    {
+      "entities": [
+        [
+          40,
+          50,
+          "CUL"
+        ],
+        [
+          65,
+          76,
+          "PER"
+        ],
+        [
+          116,
+          147,
+          "LOC"
+        ],
+        [
+          176,
+          184,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang papel na ito ay isang pagsusuri sa mga kaalamang bayan tungkol sa ekonomiya at mga kaugnay na aktibidad sa lalawigan ng Batangas na masusumpungan sa kinalap na kalipunan ng mga manuskrito sa sinupan ni Otley Beyer na makikita sa digital na koleksyon ng Pambansang Aklatan ng Pilipinas.",
+    {
+      "entities": [
+        [
+          124,
+          132,
+          "LOC"
+        ],
+        [
+          181,
+          191,
+          "CUL"
+        ],
+        [
+          206,
+          217,
+          "PER"
+        ],
+        [
+          257,
+          288,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa mga nasabing etnograpikong dokumento ay may mga salaysay at naratibo tungkol sa mga karanasan at kuwentong bayan na siyang bumubuo sa tinatawag na kaalamang bayan sa nasabing panahon kung saan masasalamin ang buhay sa lalawigan ng Batangas.",
+    {
+      "entities": [
+        [
+          16,
+          39,
+          "CUL"
+        ],
+        [
+          100,
+          115,
+          "CUL"
+        ],
+        [
+          150,
+          165,
+          "CUL"
+        ],
+        [
+          234,
+          242,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mahalaga ang papel sa paraang maaaring makapag-ambag ito tungo sa malawakang pag-unawa kung paano hiniraya ang lalawigan ng Batangas kaugnay ng mga sinaunang hanapbuhay noong panahon ng Amerikano lalo pa at limitado ang mga umiiral na talakay tungkol sa paksang ito na pinatutunayan ng iilan lamang na literaturang nakasentro sa lalawigan na nakalap ng mananaliksik.",
+    {
+      "entities": [
+        [
+          124,
+          132,
+          "LOC"
+        ],
+        [
+          148,
+          168,
+          "CUL"
+        ],
+        [
+          186,
+          195,
+          "MISC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang kalipunan ng mga manuskrito sa sinupan ni Otley Beyer at ang mga piling artikulo tungkol sa ekonomiya ng lalawigan Batangas.",
+    {
+      "entities": [
+        [
+          21,
+          31,
+          "CUL"
+        ],
+        [
+          46,
+          57,
+          "PER"
+        ],
+        [
+          119,
+          127,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mga tema at diskurso ng mga piling artikulo tungkol sa ekonomiya at mga kaugnay na aktibidad sa lalawigan ng Batangas.",
+    {
+      "entities": [
+        [
+          109,
+          117,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang pagsusuri ng mga natukoy na diskurso, at implikasyon ng mga ito sa kasalukuyang kalagayan ng sektor pang-ekonomiya ng lalawigan ng Batangas at maging ng kontemporanyong Pilipinas.",
+    {
+      "entities": [
+        [
+          135,
+          143,
+          "LOC"
+        ],
+        [
+          173,
+          182,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mahalaga ang papel sa paraang makapag-aambag ito tungo sa malawakang pag-unawa kung paano inilarawan ang lalawigan ng Batangas kaugnay sa mga gawaing pang-ekonomiya, at ng mga sinaunang hanapbuhay noong panahon ng Amerikano.",
+    {
+      "entities": [
+        [
+          118,
+          126,
+          "LOC"
+        ],
+        [
+          176,
+          196,
+          "CUL"
+        ],
+        [
+          203,
+          223,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Magbibigay-daan din ito upang maisagawa ang pag-update sa nilalaman tungkol sa kasaysayan ng lalawigan ng Batangas sa opisyal na website nito na sa kasalukuyan ay may limitadong impormasyong matutunghayan.",
+    {
+      "entities": [
+        [
+          79,
+          102,
+          "CUL"
+        ],
+        [
+          106,
+          114,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Magiging mahalaga ring ambag ang manuskrito sa pagpapatingkad sa koleksyon ng De La Salle Lipa-Center for Batangas Studies.",
+    {
+      "entities": [
+        [
+          33,
+          43,
+          "CUL"
+        ],
+        [
+          78,
+          122,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Higit sa lahat, magsisilbi itong sanggunian para sa mga mag-aaral at mananaliksik tungkol sa naging tradisyon ng ekonomiya ng lalawigan na kahit ang mga lokal na mananalaysay at historyador ay aminadong may kakulangan sa umiiral na mga tala.",
+    {
+      "entities": [
+        [
+          100,
+          122,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang artikulong \"Pot-making in Batangas\" na sinulat ni Aurelio P. Arguelles noong 1917 ay tumuon sa proseso ng paggawa ng palayok.",
+    {
+      "entities": [
+        [
+          16,
+          38,
+          "CUL"
+        ],
+        [
+          54,
+          74,
+          "PER"
+        ],
+        [
+          121,
+          128,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang paggawa ng palayok ay isa sa pinakamahalagang pinagkakakitaan sa Palyocan, Batangas.",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "CUL"
+        ],
+        [
+          69,
+          87,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bagaman ang paggawa ng palayok ay isang kasanayang nahubog na sa maraming taon, ito ay nanatiling isang yumayabong na industriya sa lalawigan.",
+    {
+      "entities": [
+        [
+          23,
+          30,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pinanatili ng kompetisyong umiiral sa Pilipinas maging sa mga bansang Tsina at Japan ang industriyang ito sa Batangas.",
+    {
+      "entities": [
+        [
+          38,
+          47,
+          "LOC"
+        ],
+        [
+          70,
+          75,
+          "LOC"
+        ],
+        [
+          79,
+          84,
+          "LOC"
+        ],
+        [
+          109,
+          117,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pangunahing kasangkapan sa paggawa noon ng palayok ang kulay-abo at malagkit na luwad na nakuha mula sa mababang lupa sa tabi ng ilog ng Calumpang.",
+    {
+      "entities": [
+        [
+          43,
+          50,
+          "CUL"
+        ],
+        [
+          137,
+          146,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Itinuring na simple at makaluma ang pamamaraan ng paggawa ng palayok sa Batangas.",
+    {
+      "entities": [
+        [
+          61,
+          68,
+          "CUL"
+        ],
+        [
+          72,
+          80,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bagaman mayroong kawalan ng pamantayan at ng organisadong plano sa pagdaloy ng industriyang ito pati na rin ng kaalamang teknikal sa pag-angat ng gawaing pangkabuhayan, hindi matatawaran ang kalidad ng mga palayok na gawa sa lalawigan.",
+    {
+      "entities": [
+        [
+          206,
+          213,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ipinahayag ni Arguelles sa pagsulat niya ng artikulong ito na may mainam na hinaharap ang industriyang ito bilang patuloy na nagtutustos ang Batangas sa mga karatig-bayan at kalapit na lalawigan.",
+    {
+      "entities": [
+        [
+          14,
+          23,
+          "PER"
+        ],
+        [
+          141,
+          149,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang artikulong \"Pot-making in Batangas\" na sinulat ni Aurelio P. Arguelles noong 1917 ay tumuon sa proseso ng paggawa ng palayok.",
+    {
+      "entities": [
+        [
+          16,
+          38,
+          "CUL"
+        ],
+        [
+          54,
+          74,
+          "PER"
+        ],
+        [
+          121,
+          128,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang paggawa ng palayok ay isa sa pinakamahalagang pinagkakakitaan sa Palyocan, Batangas.",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "CUL"
+        ],
+        [
+          69,
+          87,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bagaman ang paggawa ng palayok ay isang kasanayang nahubog na sa maraming taon, ito ay nanatiling isang yumayabong na industriya sa lalawigan.",
+    {
+      "entities": [
+        [
+          23,
+          30,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pinanatili ng kompetisyong umiiral sa Pilipinas maging sa mga bansang Tsina at Japan ang industriyang ito sa Batangas.",
+    {
+      "entities": [
+        [
+          38,
+          47,
+          "LOC"
+        ],
+        [
+          70,
+          75,
+          "LOC"
+        ],
+        [
+          79,
+          84,
+          "LOC"
+        ],
+        [
+          109,
+          117,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pangunahing kasangkapan sa paggawa noon ng palayok ang kulay-abo at malagkit na luwad na nakuha mula sa mababang lupa sa tabi ng ilog ng Calumpang.",
+    {
+      "entities": [
+        [
+          43,
+          50,
+          "CUL"
+        ],
+        [
+          137,
+          146,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Itinuring na simple at makaluma ang pamamaraan ng paggawa ng palayok sa Batangas.",
+    {
+      "entities": [
+        [
+          61,
+          68,
+          "CUL"
+        ],
+        [
+          72,
+          80,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bagaman mayroong kawalan ng pamantayan at ng organisadong plano sa pagdaloy ng industriyang ito pati na rin ng kaalamang teknikal sa pag-angat ng gawaing pangkabuhayan, hindi matatawaran ang kalidad ng mga palayok na gawa sa lalawigan.",
+    {
+      "entities": [
+        [
+          206,
+          213,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ipinahayag ni Arguelles sa pagsulat niya ng artikulong ito na may mainam na hinaharap ang industriyang ito bilang patuloy na nagtutustos ang Batangas sa mga karatig-bayan at kalapit na lalawigan.",
+    {
+      "entities": [
+        [
+          14,
+          23,
+          "PER"
+        ],
+        [
+          141,
+          149,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang mga pangunahing batis ng himagsikan sa Taguig at Pateros ay binubuo ng mga gunita ng mga sangkot sa pag-oorganisa at mga laban ng mga rebolusyonaryo.",
+    {
+      "entities": [
+        [
+          29,
+          39,
+          "CUL"
+        ],
+        [
+          43,
+          49,
+          "LOC"
+        ],
+        [
+          53,
+          60,
+          "LOC"
+        ],
+        [
+          138,
+          152,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Isa rito ay si Gregorio Flores na Katipunero sa Balangay Magtanggol na kinalauna’y naging unang pangulong bayan ng Pateros (b. 1878; Disyembre 1899-1901) sa lalawigan ng Rizal.",
+    {
+      "entities": [
+        [
+          15,
+          30,
+          "PER"
+        ],
+        [
+          34,
+          44,
+          "CUL"
+        ],
+        [
+          48,
+          67,
+          "LOC"
+        ],
+        [
+          96,
+          111,
+          "CUL"
+        ],
+        [
+          115,
+          122,
+          "LOC"
+        ],
+        [
+          170,
+          175,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bilang kasapi ng Katipunan, siya rin ang kumatha ng \"Ang Pateros at Pakikipaghimagsik Nito\" noong 1928.",
+    {
+      "entities": [
+        [
+          17,
+          26,
+          "CUL"
+        ],
+        [
+          53,
+          90,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Isang buong kabanata naman sa \"Gunita ng Himagsikan\" ni Heneral Emilio Aguinaldo ang inilaan sa kanyang karanasan sa Taguig at Pateros na tugma rin sa \"Tala ng Himagsikan nang 1896-1897\" ni Carlos Ronquillo na isa ring Katipunero ng Magdalo at naging tagapagsalaysay ng himagsikan.",
+    {
+      "entities": [
+        [
+          31,
+          51,
+          "CUL"
+        ],
+        [
+          56,
+          80,
+          "PER"
+        ],
+        [
+          117,
+          123,
+          "PER"
+        ],
+        [
+          127,
+          134,
+          "PER"
+        ],
+        [
+          152,
+          170,
+          "CUL"
+        ],
+        [
+          190,
+          206,
+          "PER"
+        ],
+        [
+          219,
+          229,
+          "CUL"
+        ],
+        [
+          233,
+          240,
+          "LOC"
+        ],
+        [
+          270,
+          280,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang dating presidente municipal ng Taguig na si Jose Pagtakhan (b. 1885; 1916-1925) ang may-akda ng \"Ang Taguig at Ang Kanyang Kasaysayan\" noong 1963 na mula sa tinipon na mga kuwentong bayan, at iba’t ibang panayam sa Taguig.",
+    {
+      "entities": [
+        [
+          35,
+          41,
+          "PER"
+        ],
+        [
+          48,
+          62,
+          "ORG"
+        ],
+        [
+          101,
+          137,
+          "CUL"
+        ],
+        [
+          176,
+          191,
+          "CUL"
+        ],
+        [
+          219,
+          225,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Si Pagtakhan ay isang escribiente ng kanyang ama na isang cabeza de barangay at nasa 11 taong gulang sa panahon ng himagsikan.",
+    {
+      "entities": [
+        [
+          3,
+          12,
+          "PER"
+        ],
+        [
+          22,
+          33,
+          "CUL"
+        ],
+        [
+          58,
+          76,
+          "CUL"
+        ],
+        [
+          115,
+          125,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Maaaring hindi siya nakabahagi rito ngunit ang kanyang mga nakalap na tala tungkol sa pagbabangon ng mga Taguigueño ay napapatotohanan at nagiging matibay sa pamamagitan ng koroborasyon sa iba pang batis tulad ng mga pahayagang El Comercio, El Dia, La Epoca, atbp. na may mga ulat hango sa opisyal na telegrama tungkol sa rebolusyon o insureksiyon sa pananaw ng mga Espanyol.",
+    {
+      "entities": [
+        [
+          105,
+          115,
+          "CUL"
+        ],
+        [
+          228,
+          239,
+          "CUL"
+        ],
+        [
+          241,
+          247,
+          "CUL"
+        ],
+        [
+          249,
+          257,
+          "CUL"
+        ],
+        [
+          322,
+          374,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kasama rin dito ang mga ulat at gunita ng Pranses na konsul na si G. de Berard mula sa aklat ni Dr. Ma. Luisa Camagay na \"French Consular Dispatches on the Philippine Revolution\" at Tenyente Komandante Manuel Sityar ng Pasig sa kanyang \"Memorias Intimas\" at ang ulat-gunita ng Kura Paroko ng Pateros na si Padre Tomas Espejo kaugnay ng nangyaring pagsalakay ni Hen. Aguinaldo sa Taguig at Pateros.",
+    {
+      "entities": [
+        [
+          42,
+          49,
+          "LOC"
+        ],
+        [
+          66,
+          78,
+          "PER"
+        ],
+        [
+          96,
+          117,
+          "PER"
+        ],
+        [
+          182,
+          215,
+          "CUL"
+        ],
+        [
+          219,
+          224,
+          "LOC"
+        ],
+        [
+          237,
+          253,
+          "CUL"
+        ],
+        [
+          277,
+          288,
+          "CUL"
+        ],
+        [
+          292,
+          299,
+          "LOC"
+        ],
+        [
+          306,
+          324,
+          "PER"
+        ],
+        [
+          361,
+          375,
+          "PER"
+        ],
+        [
+          379,
+          385,
+          "LOC"
+        ],
+        [
+          389,
+          396,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "May naitala ring rebolusyonaryong pari na nagmula sa bayan ng Taguig.",
+    {
+      "entities": [
+        [
+          17,
+          38,
+          "CUL"
+        ],
+        [
+          62,
+          68,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang Paring Tagalog na si Valentin Taniag (Tanyag) ay tinukoy ni Ricarte na nag-udyok sa pag-atake sa mga prayle at kasamahang Espanyol na noo’y nasa istasyon sa Guiguinto, Bulacan habang naghihintay ng tren patungong Maynila.",
+    {
+      "entities": [
+        [
+          4,
+          18,
+          "CUL"
+        ],
+        [
+          25,
+          49,
+          "PER"
+        ],
+        [
+          64,
+          71,
+          "PER"
+        ],
+        [
+          105,
+          111,
+          "CUL"
+        ],
+        [
+          115,
+          134,
+          "CUL"
+        ],
+        [
+          161,
+          179,
+          "LOC"
+        ],
+        [
+          217,
+          224,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hindi man tinukoy na kasangkot sa mismong pagsalakay, ang panghihikayat ni Padre Taniag sa pangkat ni Kapitan Inocencio Tolentino ay pagganti sa mga pagpapahirap at pang-aapi nito sa Tabang, Guiguinto sa pangunguna ng paring banyagang si Leocadia Sanchez.",
+    {
+      "entities": [
+        [
+          75,
+          87,
+          "PER"
+        ],
+        [
+          102,
+          129,
+          "PER"
+        ],
+        [
+          183,
+          200,
+          "LOC"
+        ],
+        [
+          218,
+          234,
+          "CUL"
+        ],
+        [
+          238,
+          254,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nakaagaw rin ng pangkat ang mga sumalakay na Pilipino ng riple, rebolber, at iba pang armas sa istasyon ng tren.",
+    {
+      "entities": [
+        [
+          45,
+          53,
+          "CUL"
+        ],
+        [
+          57,
+          62,
+          "CUL"
+        ],
+        [
+          64,
+          72,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Si Padre Taniag ay wala sa listahan ng mga naging kura paroko ng Taguig ngunit naitalang nanilbihan sa Taytay noong 1911 at namatay sa Pasig noong 1922 sa edad na 61.",
+    {
+      "entities": [
+        [
+          3,
+          15,
+          "PER"
+        ],
+        [
+          50,
+          61,
+          "CUL"
+        ],
+        [
+          65,
+          71,
+          "LOC"
+        ],
+        [
+          103,
+          109,
+          "LOC"
+        ],
+        [
+          135,
+          140,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nabanggit din siya ni Felipe Calderon sa kanyang \"Las Memorias\" bilang kura sa Calamba noong 1899.",
+    {
+      "entities": [
+        [
+          22,
+          37,
+          "PER"
+        ],
+        [
+          50,
+          62,
+          "CUL"
+        ],
+        [
+          79,
+          86,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Si Padre Inocencio Herrera naman ay isa ring anak ng Pateros na isinilang noong 28 Agosto 1867 sa mga magulang na sina Ignacia de Leon at Vicente Herrera.",
+    {
+      "entities": [
+        [
+          3,
+          26,
+          "PER"
+        ],
+        [
+          53,
+          60,
+          "LOC"
+        ],
+        [
+          119,
+          134,
+          "PER"
+        ],
+        [
+          138,
+          153,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Noong 1886 naging alumno interino siya sa Seminario de Nueva Caceres at maestro de capilla.",
+    {
+      "entities": [
+        [
+          18,
+          33,
+          "CUL"
+        ],
+        [
+          42,
+          68,
+          "LOC"
+        ],
+        [
+          72,
+          90,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Isang kalye ang ipinangalan sa kanya na nag-uugnay sa Tabacalera at Barangay Agujo sa Pateros.",
+    {
+      "entities": [
+        [
+          54,
+          64,
+          "LOC"
+        ],
+        [
+          68,
+          82,
+          "LOC"
+        ],
+        [
+          86,
+          93,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Siya ay isa sa kinikilalang Labinlimang Martir ng Bikol (Quince Martires de Bicol) at mula sa Ambos, Camarines na dinala siya sa Luneta at doon binaril noong 4 Enero 1897.",
+    {
+      "entities": [
+        [
+          28,
+          55,
+          "CUL"
+        ],
+        [
+          57,
+          81,
+          "LOC"
+        ],
+        [
+          94,
+          110,
+          "LOC"
+        ],
+        [
+          129,
+          135,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Isa siya sa mga nahatulan noong 29 Disyembre 1896 sa diumano’y planong pagpatay sa mga Espanyol sa Nueva Caceres na kasalukuyang nasa lungsod ng Naga.",
+    {
+      "entities": [
+        [
+          87,
+          95,
+          "CUL"
+        ],
+        [
+          99,
+          112,
+          "LOC"
+        ],
+        [
+          145,
+          149,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Una na nating banggitin na naging tahimik ang bayan ng Taguig habang may pag-aalsa sa Pateros at Pasig noong Agosto 1896.",
+    {
+      "entities": [
+        [
+          55,
+          61,
+          "LOC"
+        ],
+        [
+          86,
+          93,
+          "LOC"
+        ],
+        [
+          97,
+          102,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ito ay dahil sa destacamento ng mga cazadores at guardia civil sa tribunal ng Taguig.",
+    {
+      "entities": [
+        [
+          16,
+          28,
+          "CUL"
+        ],
+        [
+          36,
+          45,
+          "CUL"
+        ],
+        [
+          49,
+          62,
+          "CUL"
+        ],
+        [
+          66,
+          74,
+          "CUL"
+        ],
+        [
+          78,
+          84,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nakatalaga rito si Sarhento Manuel Talero na nakaugnay sa puwersa sa Pasig na nakapagpapanatili ng magandang ugnayan sa kapitan at kura paroko ng Taguig.",
+    {
+      "entities": [
+        [
+          19,
+          41,
+          "PER"
+        ],
+        [
+          69,
+          74,
+          "LOC"
+        ],
+        [
+          131,
+          142,
+          "CUL"
+        ],
+        [
+          146,
+          152,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bago sumiklab ang himagsikan, tiniyak ng capitan municipal ng Taguig na si Juan Natividad kay Tenyente Sityar na walang balita ng mga pag-aalsa sa lugar at dagdag pa na ang mga taga-Taguig ay mala-anghel sa kabaitan.",
+    {
+      "entities": [
+        [
+          18,
+          28,
+          "CUL"
+        ],
+        [
+          62,
+          68,
+          "LOC"
+        ],
+        [
+          75,
+          89,
+          "PER"
+        ],
+        [
+          94,
+          109,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ngunit nabago ito noong Enero 1897 kung kailan isang pagsalakay ang isinagawa ng mga Katipunero at di-Katipunero sa bayang ito.",
+    {
+      "entities": [
+        [
+          85,
+          95,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang orihinal na plano ng mga Katipunero sa Pateros ay harangan ang mga daraanan ng mga kalaban na maaaring rumesponde matapos ang agaw-armas sa tribunal.",
+    {
+      "entities": [
+        [
+          29,
+          39,
+          "CUL"
+        ],
+        [
+          43,
+          50,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "May mga tumanod sa Dulumbayan upang harangin ang mga paparating mula sa Taguig, samantalang ang isa pang grupo ay pumosisyon malapit sa punong tulay mula naman sa Pasig.",
+    {
+      "entities": [
+        [
+          19,
+          29,
+          "LOC"
+        ],
+        [
+          72,
+          78,
+          "LOC"
+        ],
+        [
+          163,
+          168,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Matagumpay na naisagawa ang agaw-armas sa tribunal sa Pateros sa tulong ng mga mismong cuadrilleros.",
+    {
+      "entities": [
+        [
+          42,
+          50,
+          "CUL"
+        ],
+        [
+          54,
+          61,
+          "LOC"
+        ],
+        [
+          87,
+          99,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nasa pagitan ng Taguig at Pasig ang Pateros.",
+    {
+      "entities": [
+        [
+          16,
+          22,
+          "LOC"
+        ],
+        [
+          26,
+          31,
+          "LOC"
+        ],
+        [
+          36,
+          43,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kaya't nang magpadala ng liham si Sityar kay Sarhento Talero na nasa Taguig upang papuntahin sa Pasig ilang oras bago pa magsimula ang putukan, ay naengkuwentro nito ang mga Katipunerong nakatanod sa Pateros.",
+    {
+      "entities": [
+        [
+          34,
+          40,
+          "PER"
+        ],
+        [
+          45,
+          60,
+          "PER"
+        ],
+        [
+          69,
+          75,
+          "LOC"
+        ],
+        [
+          96,
+          101,
+          "LOC"
+        ],
+        [
+          174,
+          196,
+          "CUL"
+        ],
+        [
+          200,
+          207,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ikasampu at kalahati ng gabi nang magsimula ang sigawan at putukan sa Dulumbayan kung saan sila nakadakip ng isang alguacil mula sa Taguig at napipilan ang mga guardia civil kasama na si Crispulo Rojas na namatay matapos mabaril sa ulo.",
+    {
+      "entities": [
+        [
+          70,
+          80,
+          "LOC"
+        ],
+        [
+          115,
+          123,
+          "CUL"
+        ],
+        [
+          132,
+          138,
+          "LOC"
+        ],
+        [
+          160,
+          173,
+          "CUL"
+        ],
+        [
+          187,
+          201,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa paglalarawan pa ni Flores: \"Ang napipilang mga sibil na ito'y nangagbalik na sakbibi ng di matawarang katakutan sa Taguig.\"",
+    {
+      "entities": [
+        [
+          22,
+          28,
+          "PER"
+        ],
+        [
+          118,
+          124,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ito ang narinig ni Sityar mula sa kumbento ng Pasig.",
+    {
+      "entities": [
+        [
+          19,
+          25,
+          "PER"
+        ],
+        [
+          34,
+          42,
+          "CUL"
+        ],
+        [
+          46,
+          51,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mababakas sa gunita ni Sityar na mas nauna ang putukan sa Pateros kaysa sa pagsalakay ng mga insurrectos sa bahay-himpilan at kumbento ng Pasig.",
+    {
+      "entities": [
+        [
+          23,
+          29,
+          "PER"
+        ],
+        [
+          58,
+          65,
+          "LOC"
+        ],
+        [
+          93,
+          104,
+          "CUL"
+        ],
+        [
+          108,
+          122,
+          "CUL"
+        ],
+        [
+          126,
+          134,
+          "CUL"
+        ],
+        [
+          138,
+          143,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa  petsang  29  Agosto  1896  naman  ay  naobserbahan  \nni Guevarra ang mga pangyayari sa Pasig at Pateros.",
+    {
+      "entities": [
+        [
+          60,
+          68,
+          "LOC"
+        ],
+        [
+          91,
+          96,
+          "LOC"
+        ],
+        [
+          100,
+          107,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ngunit dahil na rin sa putukan sa Dulumbayan, pumunta roon ang mga Katipunero na dapat sana ay nananatiling nakatanod sa punong tulay.",
+    {
+      "entities": [
+        [
+          34,
+          44,
+          "LOC"
+        ],
+        [
+          67,
+          77,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ito ang naging dahilan upang mabuksan ang daan para sa mga rumespondeng guardia civil mula Pasig.",
+    {
+      "entities": [
+        [
+          72,
+          85,
+          "CUL"
+        ],
+        [
+          91,
+          96,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang magkasamang puwersa na unang ipinadala ni Sityar at ilang guardia civil na nakahimpil sa Manggahan (Libingang Bago) ay dumiretso sa Dulumbayan.",
+    {
+      "entities": [
+        [
+          46,
+          52,
+          "PER"
+        ],
+        [
+          62,
+          75,
+          "CUL"
+        ],
+        [
+          93,
+          102,
+          "LOC"
+        ],
+        [
+          104,
+          118,
+          "CUL"
+        ],
+        [
+          136,
+          146,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Lumalabas na ang Katipunero ay naipit sa magkabilang dulo, sa puwersa mula sa Taguig at puwersang nakatawid sa Punong Tulay mula Pasig.",
+    {
+      "entities": [
+        [
+          17,
+          27,
+          "CUL"
+        ],
+        [
+          78,
+          84,
+          "LOC"
+        ],
+        [
+          111,
+          123,
+          "LOC"
+        ],
+        [
+          129,
+          134,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa labanang ito tatlong Katipunero ang pinangalanang namatay.",
+    {
+      "entities": [
+        [
+          24,
+          34,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sina Pedro Rosales, Eusebio Hermosa, at Guillermo Manalo na kinalauna’y dinakila sa Pateros bilang Tatlong Bayani ng Bayan.",
+    {
+      "entities": [
+        [
+          5,
+          18,
+          "PER"
+        ],
+        [
+          20,
+          35,
+          "PER"
+        ],
+        [
+          40,
+          56,
+          "PER"
+        ],
+        [
+          84,
+          91,
+          "LOC"
+        ],
+        [
+          99,
+          122,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Noong 1922, isang monumento ang ipinatayo para sa mga bayani ng Agosto 1896 sa Pateros (Martires del ’96) sa pangunguna ng Kapisanang Tabak ng Lahi.",
+    {
+      "entities": [
+        [
+          79,
+          86,
+          "LOC"
+        ],
+        [
+          88,
+          104,
+          "CUL"
+        ],
+        [
+          123,
+          147,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ito ay matatagpuan sa Dulumbayan na dinisenyo ni Victor Barrientos, tubong Pateros at mula sa School of Fine Arts ng Unibersidad ng Pilipinas.",
+    {
+      "entities": [
+        [
+          22,
+          32,
+          "LOC"
+        ],
+        [
+          49,
+          66,
+          "PER"
+        ],
+        [
+          75,
+          82,
+          "ORG"
+        ],
+        [
+          94,
+          113,
+          "ORG"
+        ],
+        [
+          117,
+          141,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sina Francisco Diego, Julian de Luna, Cipriano Ungco, Cipriano Ison, Severo T. Santos ay naitala namang sugatan.",
+    {
+      "entities": [
+        [
+          5,
+          20,
+          "PER"
+        ],
+        [
+          22,
+          36,
+          "PER"
+        ],
+        [
+          38,
+          52,
+          "PER"
+        ],
+        [
+          54,
+          67,
+          "PER"
+        ],
+        [
+          69,
+          85,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ito rin ang dahilan upang ang taong bayan ng Taguig ay maligalig na sa paghahanda para sa isang totohanan at seryosong paghihimagsik.",
+    {
+      "entities": [
+        [
+          45,
+          51,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang mga Katipunero sa Taguig, kasama na ang marami pang iba na hindi man Katipunero ay kadamdamin nila, ay lihim na nagpulong at ipinasiya ang dapat gawin.",
+    {
+      "entities": [
+        [
+          8,
+          18,
+          "CUL"
+        ],
+        [
+          22,
+          28,
+          "LOC"
+        ],
+        [
+          73,
+          83,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sila ay nagpadala ng sugo upang humingi ng tulong kay Hen. Emilio Aguinaldo para salakayin ang kumbento ng Santa Ana sa Taguig na itinakda noong 20 Disyembre 1896.",
+    {
+      "entities": [
+        [
+          21,
+          25,
+          "CUL"
+        ],
+        [
+          54,
+          75,
+          "PER"
+        ],
+        [
+          95,
+          103,
+          "CUL"
+        ],
+        [
+          107,
+          116,
+          "PER"
+        ],
+        [
+          120,
+          126,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hindi personal na nakapunta si Hen. Aguinaldo sa nasabing petsa ngunit nagpadala pa rin siya ng mga kawal Magdalo.",
+    {
+      "entities": [
+        [
+          31,
+          45,
+          "PER"
+        ],
+        [
+          100,
+          113,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa itinakdang araw, ang lahat ng mga kababaihan at kabataan ay sinabihang huwag magsimba samantalang ang mga lalaki naman ay lihim na nagsukbit ng mga patalim o punyal upang patayin ang mga guardia civil matapos ang konsekrasyon—kung saan lahat ay nakaluhod.",
+    {
+      "entities": [
+        [
+          161,
+          167,
+          "CUL"
+        ],
+        [
+          190,
+          203,
+          "CUL"
+        ],
+        [
+          216,
+          228,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Marahil ay natunugan na ang plano kaya walang madugong patayan sapagkat wala ni isang Espanyol ang nagsimba nang araw na iyon.",
+    {
+      "entities": [
+        [
+          86,
+          94,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kailangang linawin na si Hen. Miong ang nanguna sa pagsalakay sa dalawang bayan, taliwas sa binanggit ng dalawang heneral ng Magdiwang na sina Artemio Ricarte (1927) at Santiago Alvarez (1928).",
+    {
+      "entities": [
+        [
+          25,
+          35,
+          "PER"
+        ],
+        [
+          125,
+          134,
+          "LOC"
+        ],
+        [
+          143,
+          158,
+          "PER"
+        ],
+        [
+          169,
+          185,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Para sa kanila, si Hen. Crispulo Aguinaldo diumano ang nanguna sa pag-atake na sinundan naman ni Teodoro Agoncillo sa kanyang Revolt of the Masses.",
+    {
+      "entities": [
+        [
+          19,
+          42,
+          "PER"
+        ],
+        [
+          97,
+          114,
+          "PER"
+        ],
+        [
+          126,
+          146,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hindi malinaw ang mga pahayag na ito na mula sa mga heneral na wala sa mismong labanan; nagkaroon din sila ng pagkalito sapagkat si Edilberto Evangelista ang nanguna sa pag-atake sa Muntinlupa noong 24 Disyembre 1896 at hindi si Crispulo Aguinaldo na noo’y isa pa lamang Mariscal de Campo.",
+    {
+      "entities": [
+        [
+          132,
+          153,
+          "PER"
+        ],
+        [
+          182,
+          192,
+          "LOC"
+        ],
+        [
+          229,
+          247,
+          "PER"
+        ],
+        [
+          271,
+          288,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dagdag pa rito, wala pa ang Gunita ng Himagsikan ni Hen. Aguinaldo nang unang mailimbag ni Agoncillo ang aklat noong 1956.",
+    {
+      "entities": [
+        [
+          28,
+          48,
+          "CUL"
+        ],
+        [
+          52,
+          66,
+          "PER"
+        ],
+        [
+          91,
+          100,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa kabuoan, tinukoy nina Telesforo Canseco, Carlos Ronquillo, Jose Pagtakhan, Gregorio Flores, at Tomas Espejo na si Hen. Aguinaldo ang namuno sa pag-atakeng ito.",
+    {
+      "entities": [
+        [
+          25,
+          42,
+          "PER"
+        ],
+        [
+          44,
+          60,
+          "PER"
+        ],
+        [
+          62,
+          76,
+          "PER"
+        ],
+        [
+          78,
+          93,
+          "PER"
+        ],
+        [
+          98,
+          110,
+          "PER"
+        ],
+        [
+          117,
+          131,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa tingin naman ni Sastron, ang pag-atake ni Hen. Miong sa Pateros (at Taguig) ay may kinalaman sa ugnayan ng komunikasyon nila ni Hen. Mariano Llanera.",
+    {
+      "entities": [
+        [
+          19,
+          26,
+          "PER"
+        ],
+        [
+          45,
+          55,
+          "PER"
+        ],
+        [
+          59,
+          66,
+          "LOC"
+        ],
+        [
+          71,
+          77,
+          "LOC"
+        ],
+        [
+          131,
+          151,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mag-i-ika-2 ng tanghali nang dumating si Hen. Aguinaldo sa Pateros kasama ang buong Estado Mayor at mahigit 800 na kawal Pilipino.",
+    {
+      "entities": [
+        [
+          41,
+          55,
+          "PER"
+        ],
+        [
+          59,
+          66,
+          "LOC"
+        ],
+        [
+          84,
+          96,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Di tulad sa Taguig, hindi nasalubong ng putukan ang tropa nina Hen. Aguinaldo.",
+    {
+      "entities": [
+        [
+          12,
+          18,
+          "LOC"
+        ],
+        [
+          63,
+          77,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ayon sa kura ng Pateros, dinig sa bayan ang mga naging putukan sa Taguig dahilan upang magtago ang mga tao sa mga bahay na bato, maging sa kumbento at simbahan habang ang iba naman ay tumakbo sa mga kabundukan.",
+    {
+      "entities": [
+        [
+          8,
+          12,
+          "CUL"
+        ],
+        [
+          16,
+          23,
+          "LOC"
+        ],
+        [
+          66,
+          72,
+          "LOC"
+        ],
+        [
+          114,
+          127,
+          "CUL"
+        ],
+        [
+          139,
+          147,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Masayang inilahad ni Hen. Aguinaldo sa kanyang gunita ang tuwa ng taumbayan sa kanilang pagdating at masayang paghahandog ng pagkain.",
+    {
+      "entities": [
+        [
+          21,
+          35,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kagalakan din ang idinetalye ni Flores na dama ng taumbayan na naghahangad ng kalayaan.",
+    {
+      "entities": [
+        [
+          32,
+          38,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa kabila ng tagumpay ng mga rebolusyonaryo sa Pateros sa pagharang sa mga taliba na nagdaraan sa ilog Pasig, sa kasamaang palad ay hindi naman nagawang pigilan ang pagdaong at pagsalakay ng mga cazadores at guardia civil sa Napindan, nang hapon ng ika-2 ng Enero.",
+    {
+      "entities": [
+        [
+          29,
+          43,
+          "CUL"
+        ],
+        [
+          47,
+          54,
+          "CUL"
+        ],
+        [
+          75,
+          81,
+          "CUL"
+        ],
+        [
+          195,
+          204,
+          "CUL"
+        ],
+        [
+          208,
+          221,
+          "CUL"
+        ],
+        [
+          225,
+          233,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Lulan sila ng lantsang Otalora na patrolya sa Laguna de Bay sa pangunguna ni Hen. Francisco Galvis.",
+    {
+      "entities": [
+        [
+          14,
+          30,
+          "CUL"
+        ],
+        [
+          46,
+          59,
+          "LOC"
+        ],
+        [
+          77,
+          98,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dahil dito, napilitan si Hen. Aguinaldo na lisanin ang puwesto sa Pateros para tulungan ang puwersa ng mga maghihimagsik sa Napindan.",
+    {
+      "entities": [
+        [
+          25,
+          39,
+          "PER"
+        ],
+        [
+          66,
+          73,
+          "LOC"
+        ],
+        [
+          124,
+          132,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dahil sa dami at laki ng puwersang Espanyol sa Napindan, hindi na nagawang masupil kahit na nagtulong-tulungan sila.",
+    {
+      "entities": [
+        [
+          25,
+          43,
+          "CUL"
+        ],
+        [
+          47,
+          55,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Diwa ng bayanihan ang umiiral sa Kabisayaan hindi lamang sa paglilipat-bahay kundi pati na rin sa pagsasaka ng lupa.",
+    {
+      "entities": [
+        [
+          33,
+          43,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mula sa salitang bayan, nabuo ang salitang bayani.",
+    {
+      "entities": [
+        [
+          43,
+          49,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kapag pinagsama-sama ang mga bayani (bagani sa salitang Manobo sa Mindanao) ng isang bayan, nagkakaroon ng bayanihan.",
+    {
+      "entities": [
+        [
+          29,
+          35,
+          "CUL"
+        ],
+        [
+          37,
+          43,
+          "CUL"
+        ],
+        [
+          56,
+          62,
+          "CUL"
+        ],
+        [
+          66,
+          74,
+          "LOC"
+        ],
+        [
+          107,
+          116,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Katumbas ito ng salitang tiklos o burububligay sa Leyte at Samar at bayanihan ng wikang Tagalog.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "CUL"
+        ],
+        [
+          34,
+          46,
+          "CUL"
+        ],
+        [
+          50,
+          55,
+          "LOC"
+        ],
+        [
+          59,
+          64,
+          "LOC"
+        ],
+        [
+          68,
+          77,
+          "CUL"
+        ],
+        [
+          81,
+          95,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mauugat ito sa kalinangang babaylan at bagani sa Kabisayaan bago pa man dumating ang mga dayuhang mananakop sa Pilipinas noong ika-16 na dantaon.",
+    {
+      "entities": [
+        [
+          27,
+          35,
+          "CUL"
+        ],
+        [
+          39,
+          45,
+          "CUL"
+        ],
+        [
+          49,
+          59,
+          "CUL"
+        ],
+        [
+          111,
+          120,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bunsod ito ng kalinangang matrilenyal na bagaman nagkaroon ng kakaibang hugis pagpasok ng Kanluraning kaisipang sanhi ng kolonisasyon, sa pagdaan ng panahon nanatili naman ang esensya at kabuluhan nito sa kaibuturan ng lipunang Pilipino.",
+    {
+      "entities": [
+        [
+          14,
+          37,
+          "CUL"
+        ],
+        [
+          90,
+          133,
+          "CUL"
+        ],
+        [
+          205,
+          236,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Naniniwala ang mga mamaratbat at babaylan na may kapangyarihan ang bundok.",
+    {
+      "entities": [
+        [
+          19,
+          29,
+          "CUL"
+        ],
+        [
+          33,
+          41,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bukod sa malayo sa pakikialam ng kabihasnan, mayroong kapangyarihan sa kabundukang nanggagaling sa higit na makapangyarihan kaysa sa tao.",
+    {
+      "entities": [
+        [
+          33,
+          43,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa pagtatayo ng Confradia de San Jose ni Apolinario Dela Cruz o Hermano Pule noong 1832, inilipat nila sa mas estratehikong lugar sa Aritao sa paanan ng Bundok San Cristobal sa pagitan ng Laguna at Quezon ang kanyang kuta.",
+    {
+      "entities": [
+        [
+          16,
+          37,
+          "CUL"
+        ],
+        [
+          41,
+          61,
+          "PER"
+        ],
+        [
+          64,
+          76,
+          "CUL"
+        ],
+        [
+          133,
+          139,
+          "LOC"
+        ],
+        [
+          153,
+          173,
+          "LOC"
+        ],
+        [
+          188,
+          194,
+          "LOC"
+        ],
+        [
+          198,
+          204,
+          "LOC"
+        ],
+        [
+          217,
+          221,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa kabundukan nagsasagawa ng rituwal si Hermano Pule.",
+    {
+      "entities": [
+        [
+          29,
+          36,
+          "CUL"
+        ],
+        [
+          40,
+          52,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nagmula sa kabundukan, walang takot na lumulusob ang mga kasapi ng Confradia sa mga Espanyol pagkabasbas sa kanila ni Hermano Pule.",
+    {
+      "entities": [
+        [
+          67,
+          76,
+          "CUL"
+        ],
+        [
+          84,
+          92,
+          "CUL"
+        ],
+        [
+          118,
+          130,
+          "PER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nanatili ang dalumat ng tigaman at nagpatuloy ang pagpapahayag nito sa anyo ng bayanihan sa wikang Tagalog, burubligay o tiklos sa wikang Waray o Binisaya, at pagtinabangay sa wikang Mindanaoan.",
+    {
+      "entities": [
+        [
+          13,
+          31,
+          "CUL"
+        ],
+        [
+          79,
+          88,
+          "CUL"
+        ],
+        [
+          99,
+          106,
+          "CUL"
+        ],
+        [
+          108,
+          118,
+          "CUL"
+        ],
+        [
+          121,
+          127,
+          "CUL"
+        ],
+        [
+          138,
+          143,
+          "CUL"
+        ],
+        [
+          146,
+          154,
+          "CUL"
+        ],
+        [
+          159,
+          172,
+          "CUL"
+        ],
+        [
+          183,
+          193,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "May katangian ito ng paghahasahapag sa bayan ng pagkain.",
+    {
+      "entities": [
+        [
+          21,
+          35,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nagaganap ito kapag may pagtutulungan sa pagbubuhat at paglilipat ng bahay, paglilinis ng bukid, pagtatanim at pag-aani; o kaya naman, kapag may padasal at may patapὸs (banayad ang bigkas; nangangahulugang handaan).",
+    {
+      "entities": [
+        [
+          145,
+          152,
+          "CUL"
+        ],
+        [
+          160,
+          167,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Palaging sa kainan sa mahabang dulang o hapag ng bayan ang dulo ng lahat ng mga aktibidad na ito.",
+    {
+      "entities": [
+        [
+          31,
+          37,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mula sa salitang bayan ang bayani.",
+    {
+      "entities": [
+        [
+          27,
+          33,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kapag nagtutulungan ang mga bayaning ito, may pinuno man o wala, nagiging bayanihan ito ng bayan.",
+    {
+      "entities": [
+        [
+          74,
+          83,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "May magkatulad na katangian ang mga babaylan at bayani sa lipunang Pilipino.",
+    {
+      "entities": [
+        [
+          36,
+          44,
+          "CUL"
+        ],
+        [
+          48,
+          54,
+          "CUL"
+        ],
+        [
+          58,
+          75,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pareho silang nagtataglay ng pagmamalasakit at kumikilos hindi lamang para sa sarili; may pag-ako sila sa tungkuling magsilbi sa higit na nakararami.",
+    {
+      "entities": [
+        [
+          29,
+          43,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dahil pareho silang banta sa mga Espanyol, ginamitan sila ng panghihikayat na umayon sa kolonyal na sistema at ng dahas para naman sa hindi tumanggap sa mananakop.",
+    {
+      "entities": [
+        [
+          33,
+          41,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bathalang tagabantay ng bahay si Asuang.",
+    {
+      "entities": [
+        [
+          0,
+          20,
+          "CUL"
+        ],
+        [
+          33,
+          39,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Siya ang nasisigurong ligtas ang mga maiiwan sa bahay ng mandirigmang mangangayaw o mangangaso.",
+    {
+      "entities": [
+        [
+          70,
+          81,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "May kapangyarihan siyang protektahan ang mandirigmang nakasakay sa cora-cora, sasakyang pandigmang ihinugis sa bakunawa.",
+    {
+      "entities": [
+        [
+          67,
+          76,
+          "CUL"
+        ],
+        [
+          111,
+          119,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tinatawag itong inaswangan, nangangahulugang may kapangyarihan.",
+    {
+      "entities": [
+        [
+          16,
+          26,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nagkaroon siya ng negatibong imahen at naging aswang na kumakain ng atay at puso ng tao sa panahong ipinairal ng mga Espanyol ang batas-militar at Inquisition sa Samar kasabay ng curfew.",
+    {
+      "entities": [
+        [
+          46,
+          52,
+          "CUL"
+        ],
+        [
+          117,
+          125,
+          "CUL"
+        ],
+        [
+          130,
+          143,
+          "CUL"
+        ],
+        [
+          147,
+          158,
+          "CUL"
+        ],
+        [
+          162,
+          167,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hindi nakapagtataka kung bakit maraming aswang diumano sa mga pook na maraming babaylan katulad ng Siquijor, tinatawag na Isla del Fuego ng mga Espanyol, dahil sa dami ng alitaptap doon sa gabi; Samar at Leyte, pinaniniwalaan ding may mga mambabarang at aswang.",
+    {
+      "entities": [
+        [
+          40,
+          46,
+          "CUL"
+        ],
+        [
+          79,
+          87,
+          "CUL"
+        ],
+        [
+          99,
+          107,
+          "LOC"
+        ],
+        [
+          122,
+          136,
+          "CUL"
+        ],
+        [
+          195,
+          200,
+          "LOC"
+        ],
+        [
+          204,
+          209,
+          "LOC"
+        ],
+        [
+          239,
+          250,
+          "CUL"
+        ],
+        [
+          254,
+          260,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Upang makontrol ang malayang paglabas ng mga tao sa gabi, ipinairal ang pananakot sa mga babaylan na hindi lamang sila demonyo, naging aswang na rin ang imahen nila na mula sa pagiging bathala, naging aswang na si Asuang.",
+    {
+      "entities": [
+        [
+          89,
+          97,
+          "CUL"
+        ],
+        [
+          135,
+          141,
+          "CUL"
+        ],
+        [
+          185,
+          192,
+          "CUL"
+        ],
+        [
+          201,
+          207,
+          "CUL"
+        ],
+        [
+          214,
+          220,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Laganap ang kuwento ng presensya ng mga aswang sa Kabisayaan dahil marami rito ang babaylan—lalo na sa Capiz, Samar, Leyte, at Bohol.",
+    {
+      "entities": [
+        [
+          40,
+          46,
+          "CUL"
+        ],
+        [
+          50,
+          60,
+          "CUL"
+        ],
+        [
+          83,
+          91,
+          "CUL"
+        ],
+        [
+          103,
+          108,
+          "LOC"
+        ],
+        [
+          110,
+          115,
+          "LOC"
+        ],
+        [
+          117,
+          122,
+          "LOC"
+        ],
+        [
+          127,
+          132,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kasabay rin nito ang ebolusyon ng imahen ni Nagmalitong Yawa, pangunahing tauhan sa epikong Hinilawod, oras na ikinukuwento nang paawit nang walang patid sa Panay.",
+    {
+      "entities": [
+        [
+          44,
+          60,
+          "PER"
+        ],
+        [
+          84,
+          101,
+          "CUL"
+        ],
+        [
+          157,
+          162,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Naging katumbas ang pangalan niyang Yawa sa demonyo ng Espanyol.",
+    {
+      "entities": [
+        [
+          36,
+          40,
+          "CUL"
+        ],
+        [
+          44,
+          63,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dito nanggaling ang alimurang “pesteng yawa” sa mga Bisaya.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "CUL"
+        ],
+        [
+          52,
+          58,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa transpormasyon ng kahulugan ng salitang yawa, naging isang ganap na demonyo na ang diwatang si Yawa sa wikang Binisaya, Waray, Ilongo, Hiligaynon, Kinaray-a, Cebuano, at iba pang wika sa Kabisayaan.",
+    {
+      "entities": [
+        [
+          43,
+          47,
+          "CUL"
+        ],
+        [
+          98,
+          102,
+          "CUL"
+        ],
+        [
+          113,
+          121,
+          "CUL"
+        ],
+        [
+          123,
+          128,
+          "CUL"
+        ],
+        [
+          130,
+          136,
+          "CUL"
+        ],
+        [
+          138,
+          148,
+          "CUL"
+        ],
+        [
+          150,
+          159,
+          "CUL"
+        ],
+        [
+          161,
+          168,
+          "CUL"
+        ],
+        [
+          190,
+          200,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "May mahigpit na kaugnayan ang mga babaylan kina Dagohoy ng Bohol, Tamblot at Tapar (malamang na isang asog, lalaking babaylan), Sumuroy ng Samar (babaylan ang kanyang ina), at Bangkaw ng Leyte (si Pagali ang kanyang babaylan).",
+    {
+      "entities": [
+        [
+          34,
+          42,
+          "CUL"
+        ],
+        [
+          48,
+          55,
+          "CUL"
+        ],
+        [
+          59,
+          64,
+          "LOC"
+        ],
+        [
+          66,
+          73,
+          "CUL"
+        ],
+        [
+          77,
+          82,
+          "CUL"
+        ],
+        [
+          117,
+          125,
+          "CUL"
+        ],
+        [
+          128,
+          135,
+          "CUL"
+        ],
+        [
+          139,
+          144,
+          "LOC"
+        ],
+        [
+          146,
+          154,
+          "CUL"
+        ],
+        [
+          176,
+          183,
+          "CUL"
+        ],
+        [
+          187,
+          192,
+          "LOC"
+        ],
+        [
+          216,
+          224,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dahil sa Silangang Bisaya pangunahing naglunsad ng planong paglipol sa mga babaylan, nabura ang salitang ito sa mga taga-Samar at Leyte.",
+    {
+      "entities": [
+        [
+          9,
+          25,
+          "CUL"
+        ],
+        [
+          75,
+          83,
+          "CUL"
+        ],
+        [
+          130,
+          135,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kung hindi man nila napatay ang mga sumunod na henerasyon ng babaylan mula sa ika-16 na dantaon, ipinatapon naman ang mga ito sa Isla del Paragua o Palawan mula noong ika-18 hanggang ika-19 na dantaon dahil punong-puno na ang mga piitan sa Samar at Leyte.",
+    {
+      "entities": [
+        [
+          61,
+          69,
+          "CUL"
+        ],
+        [
+          129,
+          145,
+          "LOC"
+        ],
+        [
+          148,
+          155,
+          "LOC"
+        ],
+        [
+          240,
+          245,
+          "LOC"
+        ],
+        [
+          249,
+          254,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ipinasama sa pagpapatapon sa mga pinaghihinalaang babaylan ang kanilang mga anak habang ipinadala ang kalalakihan sa mga bilangguan sa Bilibid, Jolo, Cotabato, Zamboanga, Dapitan, at Marianas.",
+    {
+      "entities": [
+        [
+          50,
+          58,
+          "CUL"
+        ],
+        [
+          121,
+          131,
+          "CUL"
+        ],
+        [
+          135,
+          142,
+          "LOC"
+        ],
+        [
+          144,
+          148,
+          "LOC"
+        ],
+        [
+          150,
+          158,
+          "LOC"
+        ],
+        [
+          160,
+          169,
+          "LOC"
+        ],
+        [
+          171,
+          178,
+          "LOC"
+        ],
+        [
+          183,
+          191,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kung kabilugan ng buwan, nagsasagawa ng rituwal at pagsamba ang mga babaylan.",
+    {
+      "entities": [
+        [
+          5,
+          23,
+          "CUL"
+        ],
+        [
+          40,
+          47,
+          "CUL"
+        ],
+        [
+          51,
+          59,
+          "CUL"
+        ],
+        [
+          68,
+          76,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Maraming antas ng rituwal at marami ring antas ang kalagayan ng babaylan sa lipunan.",
+    {
+      "entities": [
+        [
+          18,
+          25,
+          "CUL"
+        ],
+        [
+          64,
+          72,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang paganito ang pinakamataas na anyo ng rituwal na isinasagawa ng pinakamatandang babaylan, kinikilalang pinakamaalam at may kapangyarihang umakyat sa ikaanim na langit at makipag-ugnayan sa mga espiritu sa kabilang daigdig.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "CUL"
+        ],
+        [
+          41,
+          48,
+          "CUL"
+        ],
+        [
+          83,
+          91,
+          "CUL"
+        ],
+        [
+          208,
+          224,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tinatawag din siyang katuuran (katotohanan), bagay na nagpapakita ng pagtatangka nitong igiit ang sarili sa kaligirang inaalisan siya ng espasyo at pinupulaang masama, mali, at demonyo.",
+    {
+      "entities": [
+        [
+          21,
+          29,
+          "CUL"
+        ],
+        [
+          177,
+          184,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang Heswitang paring si Francisco Alcina, nanirahan nang matagal sa Kabisayaan noong ika-17 dantaon, ay may malinaw na paglalarawan kung sino ang mga babaylan at ano ang papel nila sa lipunang Bisaya.",
+    {
+      "entities": [
+        [
+          4,
+          13,
+          "CUL"
+        ],
+        [
+          24,
+          40,
+          "PER"
+        ],
+        [
+          68,
+          78,
+          "CUL"
+        ],
+        [
+          150,
+          158,
+          "CUL"
+        ],
+        [
+          184,
+          199,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Inilarawan niya itong mga babaeng nagsasagawa ng rituwal kung kabilugan ng buwan.",
+    {
+      "entities": [
+        [
+          49,
+          56,
+          "CUL"
+        ],
+        [
+          62,
+          80,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nagsasagawa sila ng mga pagdarasal taliwas sa itinuturo ng simbahang Katoliko.",
+    {
+      "entities": [
+        [
+          24,
+          34,
+          "CUL"
+        ],
+        [
+          59,
+          77,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Napakalaki ng papel ng mga babaylan sa lipunang Bisaya na tumatagos sa larangang espirituwal.",
+    {
+      "entities": [
+        [
+          27,
+          35,
+          "CUL"
+        ],
+        [
+          39,
+          54,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sila ang kumakatawan at nagtataguyod ng mga paniniwala ng lipunang Bisaya bago pa man dumating ang mga mananakop na dayuhan.",
+    {
+      "entities": [
+        [
+          67,
+          73,
+          "CUL"
+        ],
+        [
+          103,
+          123,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang kabuluhan at katangian nila sa lipunang Bisaya ang banta sa tuluyang panghihimasok at pagpapalit ng paniniwalang katutubo tungo sa Kanluraning relihiyon.",
+    {
+      "entities": [
+        [
+          44,
+          50,
+          "CUL"
+        ],
+        [
+          104,
+          125,
+          "CUL"
+        ],
+        [
+          135,
+          156,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kailangang supilin ang mga babaylan ng mga mananakop upang magtagumpay ang mga ito sa kanilang layunin.",
+    {
+      "entities": [
+        [
+          27,
+          35,
+          "CUL"
+        ],
+        [
+          43,
+          52,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ayon sa mga tala, pinapatay, pinupugutan ng ulo, hinahati-hati ang katawan at tinatadtad ng itak, itinatali sa kawayan at inilulubog sa tubig upang ipakain sa buwaya ang mga babaylan sa panahon ng pananakop ng mga Espanyol.",
+    {
+      "entities": [
+        [
+          174,
+          182,
+          "CUL"
+        ],
+        [
+          197,
+          222,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dahil ang babaylan ang nag-uugnay sa mundo ng mga tao at sa mga bathala na mula sa ikaanim na antas ng langit tungo sa ikapitong antas, pinaniniwalaang naisasagawa niya ang pakikipag-usap sa mga bathala at anito.",
+    {
+      "entities": [
+        [
+          10,
+          18,
+          "CUL"
+        ],
+        [
+          64,
+          71,
+          "CUL"
+        ],
+        [
+          195,
+          202,
+          "CUL"
+        ],
+        [
+          206,
+          211,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "May kapangyarihan siyang tumawid mula sa mundo ng mga buhay hanggang sa mundo ng mga patay; o mundo ng mga buhay tungo sa mundo ng mga anito.",
+    {
+      "entities": [
+        [
+          41,
+          59,
+          "CUL"
+        ],
+        [
+          72,
+          90,
+          "CUL"
+        ],
+        [
+          94,
+          112,
+          "CUL"
+        ],
+        [
+          122,
+          140,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anupa’t pinunong espirituwal ang mga babaylan.",
+    {
+      "entities": [
+        [
+          8,
+          28,
+          "CUL"
+        ],
+        [
+          37,
+          45,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Naisasagawa ito sa pamamagitan ng paglulunsad nila ng rituwal ng panaganito o tigaman.",
+    {
+      "entities": [
+        [
+          54,
+          61,
+          "CUL"
+        ],
+        [
+          65,
+          75,
+          "CUL"
+        ],
+        [
+          78,
+          85,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dahil sa malaki ang impluwensya ng babaylan sa paniniwalang espirituwal at pang-araw-araw na buhay ng lipunang Bisaya, naging banta sila sa pananakop ng mga kolonisador.",
+    {
+      "entities": [
+        [
+          35,
+          43,
+          "CUL"
+        ],
+        [
+          47,
+          71,
+          "CUL"
+        ],
+        [
+          111,
+          117,
+          "CUL"
+        ],
+        [
+          157,
+          168,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kailangan silang alisin sa landas ng mga prayleng nagtuturo ng Kristiyanismo dahil sa taliwas na paniniwala sa relihiyong nagmula sa Kanluran.",
+    {
+      "entities": [
+        [
+          41,
+          49,
+          "CUL"
+        ],
+        [
+          63,
+          76,
+          "CUL"
+        ],
+        [
+          133,
+          141,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa tigaman, ipinagpapatuloy ng babaylan ang pagpapahalaga at pananampalataya sa mga ninuno, tinatawag na anito.",
+    {
+      "entities": [
+        [
+          3,
+          10,
+          "CUL"
+        ],
+        [
+          31,
+          39,
+          "CUL"
+        ],
+        [
+          105,
+          110,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Panaganito ang tawag sa rituwal ng pagdarasal sa kanila.",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "CUL"
+        ],
+        [
+          24,
+          31,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pinakamataas na antas ng panaganito ang tigaman.",
+    {
+      "entities": [
+        [
+          25,
+          35,
+          "CUL"
+        ],
+        [
+          40,
+          47,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pinakamataas na babaylang tinatawag na katuuran (katotohanan; truth) ang nagsasagawa ng tigaman.",
+    {
+      "entities": [
+        [
+          16,
+          25,
+          "CUL"
+        ],
+        [
+          39,
+          47,
+          "CUL"
+        ],
+        [
+          88,
+          95,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mahigpit na magkaugnay ang mga salitang tigaman at babaylan.",
+    {
+      "entities": [
+        [
+          40,
+          47,
+          "CUL"
+        ],
+        [
+          51,
+          59,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bukod sa pagiging tagapayo ng datu lalo na sa panahon ng pangangayaw nila o pandarayuhan at paglusob sa kalaban, manggagamot o tambal din ang babaylan.",
+    {
+      "entities": [
+        [
+          30,
+          34,
+          "CUL"
+        ],
+        [
+          57,
+          68,
+          "CUL"
+        ],
+        [
+          76,
+          88,
+          "CUL"
+        ],
+        [
+          113,
+          124,
+          "CUL"
+        ],
+        [
+          127,
+          133,
+          "CUL"
+        ],
+        [
+          142,
+          150,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "May mayaman siyang kaalaman sa mga halamang panlunas sa sakit.",
+    {
+      "entities": [
+        [
+          35,
+          52,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mandirigma rin siya kung kinakailangan.",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nanguna ang babaylan sa mga naganap na paglaban sa mga mananakop na Espanyol noong ika-16 na dantaon.",
+    {
+      "entities": [
+        [
+          12,
+          20,
+          "CUL"
+        ],
+        [
+          55,
+          64,
+          "CUL"
+        ],
+        [
+          68,
+          76,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Walang pangalan ang karamihan sa kanila sa dahon ng kasaysayan.",
+    {
+      "entities": [
+        [
+          43,
+          62,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manaka-nakang pagkakataon lamang na lumalabas ang pangalan nila ngunit tumatagos ang salitang babaylan sa mga lumaganap na salita sa Kabisayaan.",
+    {
+      "entities": [
+        [
+          94,
+          102,
+          "CUL"
+        ],
+        [
+          133,
+          143,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pangunahin na ang salitang santigaman.",
+    {
+      "entities": [
+        [
+          27,
+          37,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nagkaroon ng interes maging si Jose Rizal sa salitang babaylan.",
+    {
+      "entities": [
+        [
+          31,
+          41,
+          "PER"
+        ],
+        [
+          54,
+          62,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa palitan nila ng liham ni Dr. Ferdinand Blumentritt noong ika-19 na dantaon, pinag-aaralan ni Rizal ang salitang babaylan sa Mindanao noong ipinatapon siya sa Dapitan.",
+    {
+      "entities": [
+        [
+          28,
+          53,
+          "PER"
+        ],
+        [
+          96,
+          101,
+          "PER"
+        ],
+        [
+          115,
+          123,
+          "CUL"
+        ],
+        [
+          127,
+          135,
+          "LOC"
+        ],
+        [
+          161,
+          168,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kung susundan din ang yapak niya sa pananaliksik, matutuklasang dumayo si Rizal sa Iloilo at nagsimba sa simbahang may 16 na santa—tigwalong babaeng imahen sa bawat hilera sa pagbungad hanggang makarating sa altar ng simbahan.",
+    {
+      "entities": [
+        [
+          74,
+          79,
+          "PER"
+        ],
+        [
+          83,
+          89,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hindi na niya mapalalawig pa ang pag-aaral sa babaylan dahil ikinulong na siya sa Espanya mula sa Dapitan, ibinalik sa Pilipinas, at binaril sa Bagumbayan noong 1896.",
+    {
+      "entities": [
+        [
+          46,
+          54,
+          "CUL"
+        ],
+        [
+          82,
+          89,
+          "LOC"
+        ],
+        [
+          98,
+          105,
+          "LOC"
+        ],
+        [
+          119,
+          128,
+          "LOC"
+        ],
+        [
+          144,
+          154,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Umiral at palasak na salitang karaniwang ginagamit ang babaylan noong ika-16 na dantaon.",
+    {
+      "entities": [
+        [
+          55,
+          63,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sila ang pangunahing tagapayo ng mga datu, tambal o manggagamot, maalam at ugnay ng Bathala sa mundo ng mga tao.",
+    {
+      "entities": [
+        [
+          37,
+          41,
+          "CUL"
+        ],
+        [
+          43,
+          49,
+          "CUL"
+        ],
+        [
+          84,
+          91,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tampok hanggang sa kasalukuyang ika-21 dantaon ang tapὸs (malumanay ang bigkas), pinakahihintay na kainan ng lahat matapos ang pagdarasal.",
+    {
+      "entities": [
+        [
+          51,
+          56,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mga mamaratbat na at hindi na tinatawag na babaylan ang nangunguna sa pagdarasal sa tapos.",
+    {
+      "entities": [
+        [
+          4,
+          14,
+          "CUL"
+        ],
+        [
+          43,
+          51,
+          "CUL"
+        ],
+        [
+          84,
+          89,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ginagamit ng mga mamaratbat sa pangunguna sa pagdarasal ng rosaryo ang santigaman.",
+    {
+      "entities": [
+        [
+          17,
+          27,
+          "CUL"
+        ],
+        [
+          59,
+          66,
+          "CUL"
+        ],
+        [
+          71,
+          81,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Inuusal ang salitang santigaman kasabay ng pagsasagawa ng pag-aantandang pakrus sa noo at dibdib (sign of the cross) tanda ng simula ng Katolikong dasal.",
+    {
+      "entities": [
+        [
+          21,
+          31,
+          "CUL"
+        ],
+        [
+          58,
+          96,
+          "CUL"
+        ],
+        [
+          98,
+          115,
+          "CUL"
+        ],
+        [
+          136,
+          152,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hindi nawala sa talasalitaang Bisaya ang salitang tigaman.",
+    {
+      "entities": [
+        [
+          30,
+          36,
+          "CUL"
+        ],
+        [
+          50,
+          57,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sumanib, pumaimbulog at inangkin ito ng mga mamaratbat, mga Bisayang pinunong magdarasal na babae rin ang karamihan, tulad ng babaylan.",
+    {
+      "entities": [
+        [
+          44,
+          54,
+          "CUL"
+        ],
+        [
+          60,
+          68,
+          "CUL"
+        ],
+        [
+          126,
+          134,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sasaliksikin ng papel na ito sa kasaysayan ang pinagmulan ng salitang tigaman at kaugnayan nito sa sama-samang pagtutulungan at bayanihan sa pamumuno ng babaylan sa panahon ng matinding pangangailangan.",
+    {
+      "entities": [
+        [
+          70,
+          77,
+          "CUL"
+        ],
+        [
+          128,
+          137,
+          "CUL"
+        ],
+        [
+          153,
+          161,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tutuklasin ng papel kung paanong nawala ang mga pinunong tagausal ng salitang ito ngunit naisalin sa paglipas ng panahon sa mga mamaratbat, kababaihan ang karamihan, mga namumuno sa pagdarasal sa Samar at Leyte hanggang ngayong ika-21 dantaon.",
+    {
+      "entities": [
+        [
+          48,
+          65,
+          "CUL"
+        ],
+        [
+          128,
+          138,
+          "CUL"
+        ],
+        [
+          196,
+          201,
+          "LOC"
+        ],
+        [
+          205,
+          210,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nasa simula ito ng Katolikong dasal ngunit kung susuriin, hindi naman ito pang-Katoliko.",
+    {
+      "entities": [
+        [
+          19,
+          35,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Inuusal ang panalangin nang ganito: “Santigaman, sa Santa Cruz, sa ngaran han Amay, han Anak, han Dios Espiritu Santo, Amen.”",
+    {
+      "entities": [
+        [
+          52,
+          62,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bakit nasa unahan Santa Cruz ang Santigaman?",
+    {
+      "entities": [
+        [
+          18,
+          28,
+          "LOC"
+        ],
+        [
+          33,
+          43,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Paanong naisingit ito sa pag-aantanda?",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bakit nanatili ang salita kahit nawala ang salitang babaylan sa pang-araw-araw na talasalitaan ng mga karaniwang mamamayang wala sa larangan ng akademya?",
+    {
+      "entities": [
+        [
+          52,
+          60,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ano ang kaugnayan nito sa bayanihan, pagdadamayan, pagtutulungan at hapag ng bayan?",
+    {
+      "entities": [
+        [
+          26,
+          35,
+          "CUL"
+        ],
+        [
+          37,
+          49,
+          "CUL"
+        ],
+        [
+          51,
+          64,
+          "CUL"
+        ],
+        [
+          68,
+          82,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pumaimbulog ang salitang santigaman sa pang-araw-araw na buhay ng mga mamamayang Katolikong Bisaya, higit na may pinakamalaking populasyon sa Kabisayaan, dala ang isang lihim na siyang tutuklasin sa kasaysayan sa papel na ito.",
+    {
+      "entities": [
+        [
+          25,
+          35,
+          "CUL"
+        ],
+        [
+          81,
+          98,
+          "CUL"
+        ],
+        [
+          142,
+          152,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tinatalakay sa papel na ito ang lalim ng dalumat ng mga salitang bayani, babaylan, pulahan at aswang kaugnay ng salitang santigaman, mula sa salitang Latin na santiguar.",
+    {
+      "entities": [
+        [
+          65,
+          71,
+          "CUL"
+        ],
+        [
+          73,
+          81,
+          "CUL"
+        ],
+        [
+          83,
+          90,
+          "CUL"
+        ],
+        [
+          94,
+          100,
+          "CUL"
+        ],
+        [
+          121,
+          131,
+          "CUL"
+        ],
+        [
+          159,
+          168,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nangangahulugan itong dasal na lumangkap sa salitang Bisayang tigaman.",
+    {
+      "entities": [
+        [
+          53,
+          69,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pagtitipon ito sa kagyat na tingin at simula ng pag-aantanda at pagkukrus sa noo ng mga mamaratbat.",
+    {
+      "entities": [
+        [
+          18,
+          24,
+          "CUL"
+        ],
+        [
+          48,
+          60,
+          "CUL"
+        ],
+        [
+          64,
+          80,
+          "CUL"
+        ],
+        [
+          88,
+          98,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mga matatandang babae silang namumuno sa mga rosaryo at iba pang dasal ng Katolikong Simbahan sa mga bayan at liblib na pook sa Leyte at Samar.",
+    {
+      "entities": [
+        [
+          45,
+          52,
+          "CUL"
+        ],
+        [
+          74,
+          93,
+          "CUL"
+        ],
+        [
+          128,
+          133,
+          "LOC"
+        ],
+        [
+          137,
+          142,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pagkatapos ng mga unang labanan sa Leyte at mga karatig na lugar, sumulong ang puwersang Alyansa patungong Luzon upang bawiin ang Maynila at tugisin ang hukbo ni Hen. Tomoyuki Yamashita na noo’y nagkubli sa hilagang Luzon.",
+    {
+      "entities": [
+        [
+          35,
+          40,
+          "LOC"
+        ],
+        [
+          79,
+          96,
+          "CUL"
+        ],
+        [
+          130,
+          137,
+          "LOC"
+        ],
+        [
+          153,
+          185,
+          "CUL"
+        ],
+        [
+          207,
+          221,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nagkatagpo sa mga bayan-bayan ang mga sundalo at mga gerilya na siyang nagturo ng lokasyon ng mga Hapon at tumulong sa pakikipaglaban.",
+    {
+      "entities": [
+        [
+          53,
+          60,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dumating ang karagdagang puwersang Hapon sa lupa at tubig habang nasa Leyte ang hukbong Alyansa.",
+    {
+      "entities": [
+        [
+          25,
+          40,
+          "CUL"
+        ],
+        [
+          70,
+          75,
+          "LOC"
+        ],
+        [
+          80,
+          95,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Noong 23-26 Oktubre 1944, naganap sa golpo ng Leyte ang isa sa pinakamalaking labanang pandagat sa kasaysayan kung saan nanalo ang puwersang Alyansa.",
+    {
+      "entities": [
+        [
+          37,
+          51,
+          "LOC"
+        ],
+        [
+          63,
+          95,
+          "CUL"
+        ],
+        [
+          131,
+          148,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Gamit ang impormasyon mula sa mga gerilya, sinimulan na ni Hen. MacArthur ang Operation Musketeer, o ang pagbawi sa Pilipinas.",
+    {
+      "entities": [
+        [
+          34,
+          41,
+          "CUL"
+        ],
+        [
+          59,
+          73,
+          "PER"
+        ],
+        [
+          78,
+          97,
+          "CUL"
+        ],
+        [
+          105,
+          125,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nagpasiya siyang dumaong sa Leyte kaysa sa Mindanao at paagahin ang paglusob dito.",
+    {
+      "entities": [
+        [
+          28,
+          33,
+          "LOC"
+        ],
+        [
+          43,
+          51,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nakuha ng puwersang Alyansa ang mga baybayin ng Leyte noong 20 Oktubre 1944, kung saan isinagawa ng pangkat ni Hen. MacArthur ang makasaysayang pagdaong sa Palo.",
+    {
+      "entities": [
+        [
+          10,
+          27,
+          "CUL"
+        ],
+        [
+          48,
+          53,
+          "LOC"
+        ],
+        [
+          111,
+          125,
+          "PER"
+        ],
+        [
+          156,
+          160,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Patuloy na ginampanan ng kababaihan ang kanilang mahahalagang papel sa kilusang gerilya.",
+    {
+      "entities": [
+        [
+          71,
+          87,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Liban sa armadong pakikipaglaban, mahusay silang nagtrabaho bilang mga mensahera at tagakalap ng impormasyon na kadalasa’y pangunahing prayoridad ng mga gerilya.",
+    {
+      "entities": [
+        [
+          71,
+          80,
+          "CUL"
+        ],
+        [
+          153,
+          160,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Gamit ang radyo, telegrapo, at pakikipagtagpo sa mga submarino, naipadala ng mga gerilya ang nakalap na impormasyon sa Australya upang makatulong sa pagpaplano ng hukbong Alyansa na lusubin ang mga teritoryong Hapon noong 1944.",
+    {
+      "entities": [
+        [
+          81,
+          88,
+          "LOC"
+        ],
+        [
+          119,
+          128,
+          "CUL"
+        ],
+        [
+          163,
+          178,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bagamat ipinag-utos na ni Hen. Jonathan Wainwright ang pagsuko ng lahat ng hukbong Pilipino at Amerikano sa bansa noong 7 Mayo 1942, maraming sundalo ang patuloy pa ring nakipaglaban sa mga Hapon bilang mga gerilya.",
+    {
+      "entities": [
+        [
+          26,
+          50,
+          "PER"
+        ],
+        [
+          75,
+          104,
+          "CUL"
+        ],
+        [
+          207,
+          214,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Marami ring mga pulitiko at pangkaraniwang sibilyan ang nagsipag-armas upang ipagtanggol ang kalayaan.",
+    {
+      "entities": [
+        [
+          77,
+          101,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Daan-daang grupo ng gerilya ang itinatag mula Luzon hanggang Mindanao.",
+    {
+      "entities": [
+        [
+          20,
+          27,
+          "LOC"
+        ],
+        [
+          46,
+          51,
+          "LOC"
+        ],
+        [
+          61,
+          69,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa kabila ng kabutihang-loob na ipinapakita ng propagandang Hapon, laganap pa rin ang takot sa mga nasakop na lugar.",
+    {
+      "entities": [
+        [
+          47,
+          65,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tulad ng inaasahan sa isang bansang nasa ilalim ng batas militar, maraming sundalo ang gumawa ng mga krimen tulad ng panggagahasa at pagpatay.",
+    {
+      "entities": [
+        [
+          51,
+          64,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pinalaganap ng pamahalaang kontrolado ng mga Hapon ang propagandang para sa mga Pilipino.",
+    {
+      "entities": [
+        [
+          55,
+          88,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ginamit ng mga Hapon ang mga pahayagan, paaralan, mga pagpupulong at iba pa upang hikayatin ang mga Pilipino na yakapin ang “tunay na kulturang Silanganin” na pinagbabahagian nila ng mga Hapon.",
+    {
+      "entities": [
+        [
+          29,
+          38,
+          "CUL"
+        ],
+        [
+          100,
+          108,
+          "CUL"
+        ],
+        [
+          125,
+          154,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa kabilang banda, hinimok din ng pamahalaan ang publiko na iwaksi ang kulturang Amerikano na hindi naman naaangkop sa mga Asyano.",
+    {
+      "entities": [
+        [
+          71,
+          90,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Noong Disyembre 1941, itinalaga ni Pangulong Manuel Quezon si Jose P. Laurel bilang Kalihim ng Katarungan ng Gabineteng Pandigma.",
+    {
+      "entities": [
+        [
+          35,
+          58,
+          "PER"
+        ],
+        [
+          62,
+          76,
+          "PER"
+        ],
+        [
+          84,
+          128,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Noong Oktubre 1943, naging pangulo si Laurel ng pamahalaang kontrolado ng mga Hapon, kung saan ginampanan niya ang mahalagang tungkuling papayapain ang mga opisyal na militar ng mga Hapon sa isang banda, at tulungan naman ang mga Pilipinong sibilyan at gerilya sa kabila.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "PER"
+        ],
+        [
+          182,
+          187,
+          "LOC"
+        ],
+        [
+          230,
+          249,
+          "CUL"
+        ],
+        [
+          253,
+          260,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Binobomba na ng hukbong Hapon ang Corregidor mula noong 29 Disyembre 1941 dahil sa istratehikong lokasyon nito bilang bantayan sa Look ng Maynila.",
+    {
+      "entities": [
+        [
+          16,
+          29,
+          "CUL"
+        ],
+        [
+          34,
+          44,
+          "LOC"
+        ],
+        [
+          130,
+          145,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mahigit 13,000 bilanggo ng digmaan mula Corregidor ang dinala sa Maynila at kalauna’y sa iba’t ibang kampo tulad ng sa Cabanatuan, Palawan, at bansang Hapon.",
+    {
+      "entities": [
+        [
+          40,
+          50,
+          "LOC"
+        ],
+        [
+          65,
+          72,
+          "LOC"
+        ],
+        [
+          119,
+          129,
+          "LOC"
+        ],
+        [
+          131,
+          138,
+          "LOC"
+        ],
+        [
+          151,
+          156,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pagkatapos ng ilang buwan ng mabalasik na pakikibaka, napasuko na rin ang halos 76,000 na manananggol dahil sa kakulangan ng armas, pagkain, at gamot.",
+    {
+      "entities": [
+        [
+          42,
+          52,
+          "CUL"
+        ],
+        [
+          90,
+          101,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dahil sa dami ng sumuko sa Bataan at kakulangan ng sasakyan, pinagmartsa ng mga Hapon ang mga bilanggo ng digmaan patungong San Fernando, Pampanga.",
+    {
+      "entities": [
+        [
+          27,
+          33,
+          "LOC"
+        ],
+        [
+          80,
+          85,
+          "LOC"
+        ],
+        [
+          124,
+          146,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mula doo’y pinasakay sila ng tren patungong Kampo O’Donnel, Capas, Tarlac.",
+    {
+      "entities": [
+        [
+          44,
+          73,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang Bataan ang nagsilbing huling linya ng depensa ng mga Pilipino at Amerikanong naipit ng mga puwersang Hapong mula hilaga at silangang Luzon.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "LOC"
+        ],
+        [
+          57,
+          65,
+          "CUL"
+        ],
+        [
+          95,
+          111,
+          "CUL"
+        ],
+        [
+          117,
+          142,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nagtagal ang pagtatanggol sa Bataan mula 7 Enero hanggang 9 Abril 1942.",
+    {
+      "entities": [
+        [
+          13,
+          25,
+          "CUL"
+        ],
+        [
+          29,
+          35,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mula sa iba’t ibang baybayin sa Luzon, sumulong ang hukbong Hapon patungong Maynila, ang kapitolyo, at Bataan, kung saan unti-unting nagtitipon ang mga napapaatras na sundalong Pilipino’t Amerikano alinsunod sa War Plan Orange.",
+    {
+      "entities": [
+        [
+          20,
+          28,
+          "CUL"
+        ],
+        [
+          52,
+          65,
+          "CUL"
+        ],
+        [
+          76,
+          83,
+          "LOC"
+        ],
+        [
+          89,
+          98,
+          "LOC"
+        ],
+        [
+          103,
+          109,
+          "LOC"
+        ],
+        [
+          167,
+          197,
+          "CUL"
+        ],
+        [
+          211,
+          226,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Noong 26 Disyembre 1941, idineklara ang Maynila bilang open city at nilisan ito ng pamahalaang Komonwelt at ng mga sundalong Amerikanong nagtungong Corregidor upang maiwasan ang pagkasira ng lungsod.",
+    {
+      "entities": [
+        [
+          40,
+          47,
+          "LOC"
+        ],
+        [
+          55,
+          64,
+          "CUL"
+        ],
+        [
+          83,
+          104,
+          "CUL"
+        ],
+        [
+          148,
+          158,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Gayumpaman, binomba pa rin ito ng mga Hapon at nasakop noong 2 Enero 1942.",
+    {
+      "entities": [
+        [
+          38,
+          43,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dumating si Hen. Masaharu Homma, pinuno ng 14th Army, sa baybayin ng Golpo ng Lingayen noong 24 Disyembre 1941 upang pamunuan ang paglusob ng mga Hapon sa Pilipinas.",
+    {
+      "entities": [
+        [
+          12,
+          31,
+          "PER"
+        ],
+        [
+          69,
+          74,
+          "LOC"
+        ],
+        [
+          78,
+          86,
+          "LOC"
+        ],
+        [
+          130,
+          164,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nagsimulang bumaba ang puwersang panlupa ng mga Hapon sa iba’t ibang punto sa Luzon, Visayas, at Mindanao.",
+    {
+      "entities": [
+        [
+          23,
+          53,
+          "CUL"
+        ],
+        [
+          78,
+          83,
+          "LOC"
+        ],
+        [
+          85,
+          92,
+          "LOC"
+        ],
+        [
+          97,
+          105,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ipinagtanggol ng mga Pilipino’t Amerikano ang mga baybayin ngunit napaatras din dahil sa kakulangan sa pagsasanay at kagamitan.",
+    {
+      "entities": [
+        [
+          50,
+          58,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Agad na nagtayo ng mga base at paliparan ang mga Hapon.",
+    {
+      "entities": [
+        [
+          49,
+          54,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bagama’t pitumput limang taon na ang lumipas mula nang maranasan ng Pilipinas ang Ikalawang Digmaang Pandaigdig, patuloy pa ring nabubuhay ang mga alaala ng digmaan gamit ang mga nasulat na tala, ilang mga pelikula, at, mangyari pa, mga retrato.",
+    {
+      "entities": [
+        [
+          68,
+          77,
+          "LOC"
+        ],
+        [
+          82,
+          111,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tungkol sa mga larawang ito, ipinaliwanag ni Ian Carter, senior curator ng British Imperial War Museum, ang pagkakaiba ng may kulay sa wala: “Sadyang nagbibigay ng hadlang ang mga retratong puti at itim sa pagitan ng paksa at sa tumitingin nito; ibinabalik ng retratong may kulay ang nawawalang kalinawan at epektong ito.”",
+    {
+      "entities": [
+        [
+          45,
+          55,
+          "PER"
+        ],
+        [
+          75,
+          102,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Idinagdag pa ng isang pahayagan na ang mga kinulayang retratong ito “ay nagpapakita kung paano mismo nakita ng mga nabuhay noon ang Ikalawang Digmaang Pandaigdig.”",
+    {
+      "entities": [
+        [
+          132,
+          161,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bilang paggunita sa ika-75 anibersaryo ng Ikalawang Digmaang Pandaigdig sa Pilipinas, inihahandog ng Pambansang Komisyong Pangkasaysayan ng Pilipinas, Philippine History in Color at Project Saysay ang isang eksibit ng mga kinulayang larawan ng Ikalawang Digmaang Pandaigdig sa Pilipinas.",
+    {
+      "entities": [
+        [
+          42,
+          71,
+          "CUL"
+        ],
+        [
+          75,
+          84,
+          "LOC"
+        ],
+        [
+          101,
+          149,
+          "ORG"
+        ],
+        [
+          182,
+          196,
+          "CUL"
+        ],
+        [
+          244,
+          286,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kamay ang pinakapayak na ginagamit panghuli ng isda ng mga taga-Pamarawan.",
+    {
+      "entities": [
+        [
+          59,
+          73,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tiyak, nag-uugat pa ang pamamaraang ito sa sinaunang panahon.",
+    {
+      "entities": [
+        [
+          43,
+          60,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang isda ay nilikhang madulas at mapanganib, ayon sa mga taga-Pamarawan.",
+    {
+      "entities": [
+        [
+          57,
+          71,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Masusugatan ang sinuman na walang kasanayan dahil ang mga kaliskis ng liwalo ay sintalim ng blade, ang hito ay may tÃ­bÃ² sa magkabilang gilid ng ulo na nakakalagnat, at ang karpa ay may matatalim na palikpik at kaliskis na sapat upang mahiwa ang kamay ng humuhuli nito.",
+    {
+      "entities": [
+        [
+          70,
+          76,
+          "CUL"
+        ],
+        [
+          174,
+          179,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang paggamit ng kamay ay tinatawag na pangangapa o pagdakma.",
+    {
+      "entities": [
+        [
+          38,
+          48,
+          "CUL"
+        ],
+        [
+          51,
+          59,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Naisasagawa ang pangingisdang ito sa mababaw o hanggang bukong-bukong na tubig ngunit hindi na sa hanggang binti (kung walang tulong ng salakab, na ipaliliwanag sa susunod na pahina).",
+    {
+      "entities": [
+        [
+          136,
+          143,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa pamamagitan ng paggamit ng dalawang kamay, dahan-dahang ihuhulma ang mga ito sa bahagi ng tubig na pumupusag.",
+    {
+      "entities": [
+        [
+          102,
+          111,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang liwalo at karpa ay dahan-dahan namang pinipiga sa pinakaulo dahil may tÃ­bÃ² ang mga kaliskis nito.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "CUL"
+        ],
+        [
+          14,
+          19,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ginagawa ang pangangapa sa mga tinubig na bahagi ng bukid, kung saan sumusuba ang mga dalag, at sa mga mabababaw na bahagi ng sapa at ilog, kung saan dagsa ang mga dalag at hito.",
+    {
+      "entities": [
+        [
+          13,
+          23,
+          "CUL"
+        ],
+        [
+          69,
+          77,
+          "CUL"
+        ],
+        [
+          164,
+          169,
+          "CUL"
+        ],
+        [
+          173,
+          177,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karaniwan nang gumagamit ang mga taga-Pamarawan ng mga instrumento upang madaling mahuli ang mga isda.",
+    {
+      "entities": [
+        [
+          33,
+          47,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang salapang ay isang uri ng mahabang sibat na may matulis na bakal o kawayan sa gitna at napaliligiran ng mga matutulis na kawayan sa isang pabilog na hugis.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang pananalapang o paggamit ng salapang ay nangangailangan din ng matinding kasanayan.",
+    {
+      "entities": [
+        [
+          4,
+          16,
+          "CUL"
+        ],
+        [
+          31,
+          39,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mistula itong sibat na ipupukol mula sa mga bangka o kinatatayuan.",
+    {
+      "entities": [
+        [
+          14,
+          19,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Epektibo ang pananalapang sa malalalim na bahagi ng ilog at sapa, kung saan ang isda ay lumilitaw upang uminom/huminga.",
+    {
+      "entities": [
+        [
+          13,
+          25,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Paglitaw ng mga ito, sabay pinupukol sila ng salapang.",
+    {
+      "entities": [
+        [
+          27,
+          36,
+          "CUL"
+        ],
+        [
+          45,
+          53,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang salakab ay isa pang instrumento upang madaling masukol ang isda.",
+    {
+      "entities": [
+        [
+          4,
+          11,
+          "CUL"
+        ],
+        [
+          51,
+          58,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kitang-kita ring katutubong gamit ito dahil gawa ito sa mga binilog na patpat na kawayan.",
+    {
+      "entities": [
+        [
+          17,
+          33,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dahil mahirap mandakma o manghuli sa pamamagitan ng kamay sa tubig hanggang binti ang taas, ang salakab ay isang napakaepektibong instrumento upang kulungin o ipitin muna ang isda bago ito ay tuluyang madakma.",
+    {
+      "entities": [
+        [
+          96,
+          103,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa biglang tingin, ang pananalakab o paggamit ng salakab ay tila madaling gawin.",
+    {
+      "entities": [
+        [
+          23,
+          34,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ngunit sa katotohanan, wala itong silbi kung wala namang kakayahan ang mangingisda na dakmain ang isdang maikukulong nito, lalo na kung hito, dalag o liwalo (martiniko) ang dadakmain.",
+    {
+      "entities": [
+        [
+          150,
+          156,
+          "CUL"
+        ],
+        [
+          158,
+          167,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Lumilitaw na pantulong lamang ang salakab sa malalim-lalim na bahagi ng tubig-tabang, halimbawaâ€™y sa gilid-gilid ng sapa, sa mga binahang bukid at sa mga mabababaw na bahagi ng ilog.",
+    {
+      "entities": [
+        [
+          34,
+          41,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa mga gilid-gilid ng ilog o latian at palaisdaan na kilala ang Pamarawan, maraming maliliit na daluyan ng tubig na pinupuntahan ng mga isdang wala yatang kapaguran at buong araw ay ikot nang ikot at hindi mapakali dahil kung saan-saan nanginginain.",
+    {
+      "entities": [
+        [
+          64,
+          73,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa pamamagitan ng kawayang bakod na may lagusan na maaaring isara kapag tiyak nang may isda sa loob, ayos na ayos ito sa mga tubig-tabang na may kalaliman.",
+    {
+      "entities": [
+        [
+          18,
+          32,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Umang ang tawag nila dito.",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang pag- uumang/pag-umang ay pamamaraan ng paghuli sa tubig- tabang kung saan inaabangan ang mga isda at hinahayaang kusang lumapit pumasok sa bahagi ng tubig na may sarahang pinto na yari sa kawayan.",
+    {
+      "entities": [
+        [
+          4,
+          15,
+          "CUL"
+        ],
+        [
+          16,
+          25,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kapag naikulong na ang mga isda ay maaaring limasin ang tubig, nang padakma o di kaya gumamit ng salapang o lambatin (kung hindi pa mapapatuyo ang tubig) upang madakma ang mga isda.",
+    {
+      "entities": [
+        [
+          97,
+          105,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "sa sa mga pinakamatandang pamamaraan ng paghuli ng isda ay ang paglilimas.",
+    {
+      "entities": [
+        [
+          63,
+          73,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Balde o timba ang pinakapangunahing gamit dito upang ubusin ang tubig sa isang bahagi ng tubig-tabang at pagkatapos ay walang kahirap-hirap na dakmain ang halos wala nang kalaban- laban na isda.",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "CUL"
+        ],
+        [
+          8,
+          13,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang paglilimas ay isang matrabahong paraan ng pangingisda ngunit mas karaniwan na may nahuhuli sa paraang ito kaysa wala.",
+    {
+      "entities": [
+        [
+          4,
+          14,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Isang bahagi ng ilog, sapa o isang lambak o balon ang karaniwang nililimas o pinatutuyuan ng tubig sa pamamagitan ng pagtabo nito gamit ang balde o timba.",
+    {
+      "entities": [
+        [
+          65,
+          74,
+          "CUL"
+        ],
+        [
+          140,
+          153,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sinasarahan ang mga pinanggagalingan ng tubig mula sa daanan ng tubig ng ilog o sapa at binabarahan pati ang mga maliliit na balong.",
+    {
+      "entities": [
+        [
+          125,
+          131,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karaniwan na ang pamamaraang ito ay tuloy- tuloy na ginagawa upang hindi mamahay muli ang tubig sa buong haba ng paglilimas.",
+    {
+      "entities": [
+        [
+          113,
+          123,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "At ang mga manlilimas ay gumagamit din ng salakab upang maging mabilis ang paghuli sa mga dalag, hito, atbp.",
+    {
+      "entities": [
+        [
+          11,
+          21,
+          "CUL"
+        ],
+        [
+          42,
+          49,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karaniwang nahuhuli sa paglilimas ang dalag, hito, liwalo, karpa, guraming totoo, guraming Hapon, at mga palaka.",
+    {
+      "entities": [
+        [
+          23,
+          33,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa mga taga-Pamarawan na naglalayag sa laot, lambat at pante ang gamit sa panghuhuli.",
+    {
+      "entities": [
+        [
+          7,
+          21,
+          "CUL"
+        ],
+        [
+          45,
+          51,
+          "CUL"
+        ],
+        [
+          55,
+          60,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Parang ibinaligtad na sÃºpot ang porma ng lambat at pante.",
+    {
+      "entities": [
+        [
+          42,
+          57,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Gaya ng anupamang uri ng lambat, ikinukulong nito ang mga isdang sa pagnanais na makalabas ng pante ay naiipit ang mga palikpik at naipipilit ang katawan sa maliliit na siwang o butas nito.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "CUL"
+        ],
+        [
+          94,
+          99,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bukod sa pante, mayroon ding mahaba at rektangulong lambat na ipinapain nang patayo sa gilid-gilid ng mga sapa at ilog.",
+    {
+      "entities": [
+        [
+          9,
+          14,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang pamamante ay maaari lamang gawin sa mabababaw na tubig upang sumayad ang dulo nito sa lupa sa pinakailalim ng ilog o sapa.",
+    {
+      "entities": [
+        [
+          4,
+          13,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kailangan ay malakas ang braso ng mangingisda upang lumadlad o bumuka nang husto ang pante pagbagsak nito sa ibabaw pa lamang ng tubig.",
+    {
+      "entities": [
+        [
+          85,
+          90,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pagkatapos ng ilang minuto ay dahan-dahang iaahon ang pante.",
+    {
+      "entities": [
+        [
+          54,
+          59,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Unti-unti silang kinukuha upang hindi masira ang pante.",
+    {
+      "entities": [
+        [
+          49,
+          54,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Habang kinukuha ang mga isda ay tuloy tiklop at ayos na rin ng pante para sa susunod na paghagis.",
+    {
+      "entities": [
+        [
+          63,
+          68,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pagkatapos ay saka ihahagis na muli ang pante.",
+    {
+      "entities": [
+        [
+          40,
+          45,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tatlo hanggang limang ulit ng hagis ang nagagawa, lalo na kung sa bawat ahon ng pante ay may nahuhuli.",
+    {
+      "entities": [
+        [
+          80,
+          85,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang bingwit/bilmit na pamilyar sa lahat, ay nangangailangan ng sima (hook) bilang pinakamahalagang bahagi nito.",
+    {
+      "entities": [
+        [
+          4,
+          11,
+          "CUL"
+        ],
+        [
+          12,
+          18,
+          "CUL"
+        ],
+        [
+          63,
+          67,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ngunit madali namang makalikha ng sima.",
+    {
+      "entities": [
+        [
+          34,
+          38,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hanggang sa kasalukuyan ay makakakita ng improbisadong paraan ng pamimilmit/pamimingwit.",
+    {
+      "entities": [
+        [
+          65,
+          75,
+          "CUL"
+        ],
+        [
+          76,
+          87,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pinupukpok lamang ang dulo ng alambre o kinukurtinahan ng korteng sima ang dulo ng maliit na kahoy.",
+    {
+      "entities": [
+        [
+          40,
+          54,
+          "CUL"
+        ],
+        [
+          66,
+          70,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Para sa mga bantay-palaisdaan ng Pamarawan, ang tirador at bÃºsog ay moderno na nilang mga gamit-panghuli.",
+    {
+      "entities": [
+        [
+          12,
+          42,
+          "ORG"
+        ],
+        [
+          48,
+          55,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Unang-una ay pinakatampok sa mga panghuling ito ang gomang lilikha ng puwersa upang pasambulat na tumama ang bato (sa kaso ng tirador), at ang pana na may tatlo o mahigit pang matulis na bakal (sa kaso ng bÃºsog), sa pinatatama sa isda.",
+    {
+      "entities": [
+        [
+          126,
+          133,
+          "CUL"
+        ],
+        [
+          205,
+          211,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang paninirador ang isa sa pinakapopular na paraan ng paghuli ng isda.",
+    {
+      "entities": [
+        [
+          4,
+          15,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kailangang kapain ng naninirador ang natamaang isda at damputin pagkatapos.",
+    {
+      "entities": [
+        [
+          21,
+          32,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa Pamarawan, isang malaking karangalan ang maging asintado sa tirador.",
+    {
+      "entities": [
+        [
+          3,
+          12,
+          "LOC"
+        ],
+        [
+          51,
+          70,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Marahil, ito ay upang ganyakin ang mga bata na pag-aralan ito nang maaga upang makatulong na agad sa panghuhuli ng mga isdang dagdag sa uulamin sa hapag-kainan.",
+    {
+      "entities": [
+        [
+          147,
+          159,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang baril na de-hangin (airgun) ay gayon din.",
+    {
+      "entities": [
+        [
+          4,
+          22,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang teknolohiyang gamit sa paggawa nito ay dala rin ng mga Amerikano.",
+    {
+      "entities": [
+        [
+          59,
+          68,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ngunit sa kasalukuyan ay palasak na rin ito sa lalawigan.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Di iilang bayan ang katatagpuan ng mga Bulakenyong mahusay gumawa ng mga baril na de-hangin.",
+    {
+      "entities": [
+        [
+          39,
+          50,
+          "CUL"
+        ],
+        [
+          73,
+          91,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hindi karaniwang hinahayaan ang mga bata na mamaril, kahit busog pa o baril na de-hangin ang gamit nila, hanggaâ€™t hindi pa sila natuturuan ng sapat na pag-iingat.",
+    {
+      "entities": [
+        [
+          70,
+          88,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang busog ay maaaring makatama ng iba.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Higit na madali ang mamaril dahil permanente ang puwersang magpupukol sa balang sibat sa kaso ng busog, at sa bala naman sa kaso ng baril.",
+    {
+      "entities": [
+        [
+          97,
+          102,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hindi problema sa baril na de-hangin ito dahil karaniwang may nabibiling teleskopyo na inaayos na lamang at ikinakabit dito.",
+    {
+      "entities": [
+        [
+          18,
+          36,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Higit itong madali kaysa tirador na tinatantiya pa ang puwersa habang umaasinta.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "ng halabos ay isang paraan ng pagluluto ng isdang- tabang kung saan pinakukuluan ang isda hanggang matuyuan sa bahagyang suka at asin, at pinapatungan ng pampaasim na kamyas, kamatis o sampalok sa ibabaw.",
+    {
+      "entities": [
+        [
+          43,
+          57,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karaniwang maliliit na isdang-tabang ang ihinahalabos gaya ng ayungin, biya, aligasin, karpa, tilapia, at kitang.",
+    {
+      "entities": [
+        [
+          23,
+          36,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "May pagkakatulad ang halabos sa paksiw.",
+    {
+      "entities": [
+        [
+          32,
+          38,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "O kung wala nito ay maaari ding dahong sili o usbong ng dahon ng alagaw ang ilagay.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang pag-iihaw ang pinakamalinamnam na paraan sa lahat dahil pinakakatas nito ang isda habang naluluto ito sa sarili nitong mantika.",
+    {
+      "entities": [
+        [
+          4,
+          13,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karaniwang ginigilitan o hinihiwaan ang tiyan ng isda upang mas madali at mabilis itong maluto.",
+    {
+      "entities": [
+        [
+          11,
+          22,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Binabalot ito sa dahon ng saging saka isinasalang sa baga hanggang maluto.",
+    {
+      "entities": [
+        [
+          17,
+          32,
+          "LOC"
+        ],
+        [
+          38,
+          57,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karaniwang piniprito ang bangus, dalag, hito, biya (na napakasarap kung may itlog pa sa tiyan), aligasin, karpa, tilapia, at maliliit na liwalo.",
+    {
+      "entities": [
+        [
+          46,
+          50,
+          "CUL"
+        ],
+        [
+          96,
+          104,
+          "CUL"
+        ],
+        [
+          137,
+          143,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "May sawsawang mangga na ibinabad sa tubig na may asin na tinatawag na buro.",
+    {
+      "entities": [
+        [
+          70,
+          74,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mayroong kamatis na ipinatong sa sinaing at nilalamutak sa asin.",
+    {
+      "entities": [
+        [
+          33,
+          40,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang pagdadaing ay nangangailangan muna ng paglilinis ng isda.",
+    {
+      "entities": [
+        [
+          4,
+          14,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karaniwang idinadaing ay ang bangus, ngunit naidadaing din ang dalag, hito, biya, at aligasin.",
+    {
+      "entities": [
+        [
+          11,
+          21,
+          "CUL"
+        ],
+        [
+          44,
+          54,
+          "CUL"
+        ],
+        [
+          63,
+          68,
+          "CUL"
+        ],
+        [
+          85,
+          93,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bagaman di karaniwan, maaari ding idaing ang tilapia at guraming totoo.",
+    {
+      "entities": [
+        [
+          34,
+          40,
+          "CUL"
+        ],
+        [
+          45,
+          52,
+          "CUL"
+        ],
+        [
+          56,
+          71,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang lutong sinigang ay nangangailangan naman ng masinsing paglilinis at pagkakaliskis ng isda.",
+    {
+      "entities": [
+        [
+          11,
+          19,
+          "CUL"
+        ],
+        [
+          72,
+          85,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kung sinigang sa bulaklak, murang bunga, o dahon ng sampalok, ang isinasahog na gulay ay kangkong, siling labuyo at labanos.",
+    {
+      "entities": [
+        [
+          5,
+          25,
+          "CUL"
+        ],
+        [
+          66,
+          76,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kung sinigang sa bunga ng hinog na bayabas, talbos ng kamote at gabi ang inilalagay.",
+    {
+      "entities": [
+        [
+          5,
+          42,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kung sinigang sa santol naman ay kangkong, okra, at siling labuyo.",
+    {
+      "entities": [
+        [
+          5,
+          23,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang dalag ay maaari din ihalo sa sinigang ngunit madalang itong gawin dahil malansa ito.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang lagat ang pinakakakaiba sa lahat ng pagluluto ng isdang-tabang dahil sa di pangkaraniwang lasa nito.",
+    {
+      "entities": [
+        [
+          53,
+          66,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa lagat, nililinis muna ang isda.",
+    {
+      "entities": [
+        [
+          3,
+          8,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kasunod nito ay gigisahin naman ang pinaksiw na isda sa sibuyas, bawang, kamatis, at pininong usbong ng dahon ng alagaw at dinikdik na luyang dilaw.",
+    {
+      "entities": [
+        [
+          36,
+          44,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa luyang dilaw nanggagaling ang katangi-tanging kulay at kakaibang anghang ng lagat.",
+    {
+      "entities": [
+        [
+          79,
+          84,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang inilalagat na mga isda ay kitang, bangus, at tilapia.",
+    {
+      "entities": [
+        [
+          4,
+          14,
+          "CUL"
+        ],
+        [
+          30,
+          36,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang dalag, ayon sa marami, ay masarap ding ilagat.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "CUL"
+        ],
+        [
+          43,
+          49,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang mga nailahad na kuwento at impormasyon sa itaas ang bumubuo sa museo ng kasaysayang bayan sa daungan ng Pamarawan.",
+    {
+      "entities": [
+        [
+          76,
+          93,
+          "CUL"
+        ],
+        [
+          108,
+          117,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hindi karaniwang iniuugnay ang bayan ng Malolos sa katutubong kabuhayan o sa pangingisda dahil sa mahalaga at malaking papel ng mga simbahan nitoâ€”ang Barasoain at Basilica Minore ng Immaculada Concepcionâ€” sa pambansang kasaysayan ng Pilipinas, lalo na noong ika-  na dantaon.",
+    {
+      "entities": [
+        [
+          40,
+          47,
+          "LOC"
+        ],
+        [
+          51,
+          71,
+          "CUL"
+        ],
+        [
+          77,
+          88,
+          "CUL"
+        ],
+        [
+          152,
+          161,
+          "LOC"
+        ],
+        [
+          165,
+          180,
+          "LOC"
+        ],
+        [
+          237,
+          246,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ngunit sa Pamarawan ay matutuklasan ng mga di nakaaalam ang lapit sa tubig, linang, at salimuot ng paggawa ng bangka at pangingisda, at linamnam ng lutuing isda ng mga taga-Malolos.",
+    {
+      "entities": [
+        [
+          10,
+          19,
+          "LOC"
+        ],
+        [
+          168,
+          180,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang Lungsod ng Oslob ay kilala sa magagandang atraksyon tulad ng butanding at ang talon ng Tumalog.",
+    {
+      "entities": [
+        [
+          4,
+          20,
+          "LOC"
+        ],
+        [
+          65,
+          74,
+          "CUL"
+        ],
+        [
+          82,
+          98,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Matatagpuan ang lungsod na ito sa bahaging timog ng probinsiya ng Cebu na binibisita ng mga turistang lokal at internasyonal.",
+    {
+      "entities": [
+        [
+          43,
+          70,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Naging kuta ng Espanyol ang lungsod sa panahon ng pananakop ng mga ito patunay ang ilang mga makasaysayang estruktura gaya ng mga lumang kuwartel.",
+    {
+      "entities": [
+        [
+          15,
+          23,
+          "LOC"
+        ],
+        [
+          137,
+          145,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bukod sa magagandang tanawin, kilala rin ang Oslob sa mga makulay na tradisyon, paniniwala, at kultura na naging dahilan sa pagiging katangi-tangi nito.",
+    {
+      "entities": [
+        [
+          45,
+          50,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Maraming paniniwala, kaugalian at tradisyon ang lungsod na ipinagmamalaki ng mga Oslobanon na naging bahagi ng pagkakakilanlan ng lugar lalo na sa mga pagpapahalaga ng ibaâ€™t ibang rituwal at pagdiriwang.",
+    {
+      "entities": [
+        [
+          81,
+          90,
+          "CUL"
+        ],
+        [
+          182,
+          189,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karamihan sa mga rituwal at pagdiriwang na ito ay sumasalamin sa pagkakaisa ng mga Oslobanon na naging pamana mula noon hanggang sa kasalukuyan.",
+    {
+      "entities": [
+        [
+          17,
+          24,
+          "CUL"
+        ],
+        [
+          83,
+          92,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa patuloy na pag-unlad ng turismo at pamumuhay ng mga Oslobanon ay unti-unti ring nawawala ang mga rituwal na ito at naimpluwensyahan na ito ng mga makabago at kanluraning pamamaraan.",
+    {
+      "entities": [
+        [
+          55,
+          64,
+          "CUL"
+        ],
+        [
+          100,
+          107,
+          "CUL"
+        ],
+        [
+          161,
+          183,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kaya nabuo ang polyetong ito upang balikan, pahalagahan, ipreserba, at pagyamanin pa ang mga rituwal na ito.",
+    {
+      "entities": [
+        [
+          15,
+          24,
+          "CUL"
+        ],
+        [
+          93,
+          100,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mahalagang pag-aralan, pahalagahan, at pagyamanin ang mga rituwal at pagdiriwang na ito sapagkat bahagi ito ng kultura at nabibigay-pagkakakilanlan ng nasabing lungsod.",
+    {
+      "entities": [
+        [
+          58,
+          65,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang pagpreserba at pagmamahal sa kultura ay nararapat na patatagin upang mapanatili ang tatak ng pagiging isang Pilipino.",
+    {
+      "entities": [
+        [
+          88,
+          120,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang pagpapahalaga sa mga rituwal at kulturang ito ay pinoprotektahan ng Batas Republika blg.",
+    {
+      "entities": [
+        [
+          72,
+          87,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Isinasaad sa batas na ito na sinusuportahan ng pamahalaan ang pagpapahalaga, pagpapalinang, at pagbabago ng kulturang Pilipino na sumasalamin sa pagkakaisa, pagkamalikhain, at pagpapahayag ng pangkaisipang ekspresyon.",
+    {
+      "entities": [
+        [
+          108,
+          126,
+          "CUL"
+        ],
+        [
+          192,
+          216,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang balanse ay isa sa mga ipinagmamalaking kaugalian na binuo ng mga nakatatandang Oslobanon.",
+    {
+      "entities": [
+        [
+          83,
+          92,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nabuo ang kaugalian at pagdiriwang na ito dahil sa tubÃ¢, ang inuming mula sa puno ng niyog.",
+    {
+      "entities": [
+        [
+          51,
+          55,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mayroong tatlong pakinabang ang tubÃ¢ sa pamumuhay ng mga Oslobanon tulad ng () ang bagong tubÃ¢ na matamis-tamis pa bilang inumin, () ang tubÃ¢ng umaabot ng tatlong araw o apat na araw na maasim-asim na at tinatawag itong bahalina na masarap haluan ng softdrinks, at () ang gagawing suka.",
+    {
+      "entities": [
+        [
+          32,
+          36,
+          "CUL"
+        ],
+        [
+          58,
+          67,
+          "CUL"
+        ],
+        [
+          91,
+          95,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang pananggot ay ang proseso ng pagkolekta ng tuba mula sa puno ng niyog na tinatawag na salanggutan.",
+    {
+      "entities": [
+        [
+          4,
+          13,
+          "CUL"
+        ],
+        [
+          46,
+          50,
+          "CUL"
+        ],
+        [
+          89,
+          100,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa pagkuha ng tuba, pinipili ng manalanggot ang bagong sibol ng bulok.",
+    {
+      "entities": [
+        [
+          32,
+          43,
+          "CUL"
+        ],
+        [
+          64,
+          69,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang bulok na ito ay hihiwain o ina-abis upang tumulo ang katas nito.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ikinakabit ang sanggab nito na may tongog sa loob na siyang sasalo sa mga pumapatak na tulo ng tuba.",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "CUL"
+        ],
+        [
+          35,
+          41,
+          "CUL"
+        ],
+        [
+          95,
+          99,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Upang makokolekta ng maraming tuba, maraming puno ng niyog ang kakailanganin upang maging salanggutan.",
+    {
+      "entities": [
+        [
+          30,
+          34,
+          "CUL"
+        ],
+        [
+          90,
+          101,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kinabukasan, bibisitahin muli ang sanggab at ang nakolektang tuba pagkatapos ay iniipon ito sa Sugong.",
+    {
+      "entities": [
+        [
+          34,
+          41,
+          "CUL"
+        ],
+        [
+          61,
+          65,
+          "CUL"
+        ],
+        [
+          95,
+          101,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hinihiwa muli ang bulok at kinakabitan ng bagong sanggab para sa bagong makokolekta pang tubÃ¢.",
+    {
+      "entities": [
+        [
+          18,
+          23,
+          "CUL"
+        ],
+        [
+          49,
+          56,
+          "CUL"
+        ],
+        [
+          89,
+          93,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang mga nalikom na tuba mula sa ibaâ€™t ibang salanggutan ay dadalhin sa tubaan.",
+    {
+      "entities": [
+        [
+          19,
+          23,
+          "CUL"
+        ],
+        [
+          73,
+          79,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dinadala ang tuba sa tubaan kung gusto ng manalanggot na ibenta ang mga nalikom na tubÃ¢ kung hindi naman gustong ipagbenta, maaari itong itago para sa pansariling konsumo.",
+    {
+      "entities": [
+        [
+          13,
+          17,
+          "CUL"
+        ],
+        [
+          21,
+          27,
+          "CUL"
+        ],
+        [
+          42,
+          53,
+          "CUL"
+        ],
+        [
+          83,
+          87,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pagdating sa tubaan, sinusukat ang dami ng tuba sa pamamagitan ng isang bol.",
+    {
+      "entities": [
+        [
+          13,
+          19,
+          "CUL"
+        ],
+        [
+          43,
+          47,
+          "CUL"
+        ],
+        [
+          72,
+          75,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang bol ay isang lalagyan na garapon na ang sukat nito ay mas marami pa sa litro.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pagkatapos sukatin ang dami ng tuba sa bol ay iniipon ito sa isang lalagyan na tinatawag na takalan.",
+    {
+      "entities": [
+        [
+          31,
+          35,
+          "CUL"
+        ],
+        [
+          39,
+          42,
+          "CUL"
+        ],
+        [
+          92,
+          99,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dito iniipon ang lahat ng tuba mula sa ibaâ€™t ibang manalanggot.",
+    {
+      "entities": [
+        [
+          53,
+          64,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang buong prosesong ito ay tinatawag na bÃ¹bÃ¹.",
+    {
+      "entities": [
+        [
+          40,
+          45,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang bilang ng bÃ¹bÃ¹ ng bawat manalanggot ay nakadepende sa bilang ng salanggutan.",
+    {
+      "entities": [
+        [
+          14,
+          19,
+          "CUL"
+        ],
+        [
+          30,
+          41,
+          "CUL"
+        ],
+        [
+          70,
+          81,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mas maraming bÃ¹bÃ¹ kapag maraming salanggutan.",
+    {
+      "entities": [
+        [
+          13,
+          18,
+          "CUL"
+        ],
+        [
+          35,
+          46,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang tubaan ay mayroong tinatawag na mag-alatang.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "CUL"
+        ],
+        [
+          36,
+          47,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang mag-alatang ay ang nangangasiwa sa pagkokolekta ng bÃ¹bÃ¹ at pagbebenta ng tuba na karamihan ay mga kapamilya ng manalanggot.",
+    {
+      "entities": [
+        [
+          4,
+          15,
+          "CUL"
+        ],
+        [
+          55,
+          60,
+          "CUL"
+        ],
+        [
+          79,
+          83,
+          "CUL"
+        ],
+        [
+          117,
+          128,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Inililista ng mag-alatang ang bilang ng bol ng tuba sa bawat manalanggot.",
+    {
+      "entities": [
+        [
+          14,
+          25,
+          "CUL"
+        ],
+        [
+          40,
+          43,
+          "CUL"
+        ],
+        [
+          47,
+          51,
+          "CUL"
+        ],
+        [
+          61,
+          72,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ibinebenta ang tubÃ¢ sa mga kostumer o parokyano gamit ang bol.",
+    {
+      "entities": [
+        [
+          15,
+          19,
+          "CUL"
+        ],
+        [
+          39,
+          48,
+          "CUL"
+        ],
+        [
+          59,
+          62,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang presyo ng bol noon at sa kasalukuyan ay magkaiba.",
+    {
+      "entities": [
+        [
+          14,
+          17,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Malaki na ang pagbabago ng presyo ng bol sa paglipas ng panahon.",
+    {
+      "entities": [
+        [
+          37,
+          40,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Noon ay sampong piso ang bol ngunit kalaunan ay naging labing-anim na piso na.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Minsan, umaabot ng  hanggang  bol ng tuba ang nalilikom sa isang araw.",
+    {
+      "entities": [
+        [
+          30,
+          33,
+          "CUL"
+        ],
+        [
+          37,
+          41,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mabenta ang tuba sa mga panahong mayroong mga pagdiriwang na nagaganap at tuwing tag- init sapagkat nakakauhaw ang panahon.",
+    {
+      "entities": [
+        [
+          12,
+          16,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dito papasok ang konseptong sukli.",
+    {
+      "entities": [
+        [
+          28,
+          33,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang sukli ay ang pagsasauli ng mga natirang tuba sa mga manalanggot na may maraming bÃ¹bÃ¹.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "CUL"
+        ],
+        [
+          56,
+          67,
+          "CUL"
+        ],
+        [
+          84,
+          89,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ayon sa tagapagsalaysay, mayroong ibang mag-alatang na madiskarte sa pagbebenta.",
+    {
+      "entities": [
+        [
+          40,
+          51,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang iba ay nagpapalaro ng kangga at shooting ng basketbol.",
+    {
+      "entities": [
+        [
+          26,
+          32,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kung sino ang matatalo, manlilibre ng tubÃ¢ kaya mauubos talaga ang tuba.",
+    {
+      "entities": [
+        [
+          38,
+          42,
+          "CUL"
+        ],
+        [
+          68,
+          72,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kailangang maubos ang tuba na naipon sa araw na iyon dahil kinabukasan, may bagong tuba na naman.",
+    {
+      "entities": [
+        [
+          22,
+          26,
+          "CUL"
+        ],
+        [
+          83,
+          87,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Maaaring namang utangin ang tuba ngunit kailangan itong bayaran kapag darating na ang balanse.",
+    {
+      "entities": [
+        [
+          16,
+          23,
+          "CUL"
+        ],
+        [
+          28,
+          32,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang pag-ubos ng tuba ay nangangahulugang may pera ang tubaan at may pera rin ang mga manalanggot.",
+    {
+      "entities": [
+        [
+          54,
+          60,
+          "CUL"
+        ],
+        [
+          85,
+          96,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang balanse ay ang araw na makukuha ng mga manalanggot ang perang katumbas sa bÃ¹bÃ¹ araw-araw.",
+    {
+      "entities": [
+        [
+          43,
+          54,
+          "CUL"
+        ],
+        [
+          78,
+          83,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nagkakaroon ng apat na balanse sa isang taon ang tubaan.",
+    {
+      "entities": [
+        [
+          49,
+          55,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa tatlong buwang pagbÃ¹bÃ¹ ng manalanggot, bibilangin ng bawat mag-alatang ang kabuoan ng bÃ¹bÃ¹.",
+    {
+      "entities": [
+        [
+          18,
+          26,
+          "CUL"
+        ],
+        [
+          31,
+          42,
+          "CUL"
+        ],
+        [
+          64,
+          75,
+          "CUL"
+        ],
+        [
+          91,
+          96,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang bawat bol ng bÃ¹bÃ¹ ay tutumbasan ng halagang perang kinita mula sa pagbebenta ng tuba.",
+    {
+      "entities": [
+        [
+          10,
+          13,
+          "CUL"
+        ],
+        [
+          17,
+          22,
+          "CUL"
+        ],
+        [
+          86,
+          90,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang mga umutang ng tuba ay binibigyan ng resibo ng utang ng bawat mag-alatang na nagpautang.",
+    {
+      "entities": [
+        [
+          19,
+          23,
+          "CUL"
+        ],
+        [
+          66,
+          77,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kapag ang taong ito ay umutang mula sa ibaâ€™t ibang mag-alatang, makatatanggap siya ng maraming resibo.",
+    {
+      "entities": [
+        [
+          53,
+          64,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kailangang bayaran ang utang sa araw ng Balanse upang mayroong maibigay sa mga manalanggot.",
+    {
+      "entities": [
+        [
+          79,
+          90,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kapag mayroong hindi nakabayad sa araw na iyon, ang mag-alatang ang sasagot sa bayad ng manalanggot.",
+    {
+      "entities": [
+        [
+          52,
+          63,
+          "CUL"
+        ],
+        [
+          88,
+          99,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang mga mag-alatang ay mayroon ding karapatan na kumuha ng sampong porsyento (%) sa kita ng mga bÃ¹bÃ¹ ng ibang manalanggot.",
+    {
+      "entities": [
+        [
+          8,
+          19,
+          "CUL"
+        ],
+        [
+          96,
+          101,
+          "CUL"
+        ],
+        [
+          112,
+          123,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ito ay nagsisilbing bayad sa kanilang serbisyo at sa pangangasiwa sa tubaan araw-araw.",
+    {
+      "entities": [
+        [
+          69,
+          75,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Masaya ang araw ng balanse sapagkat ito ang selebrasyon na kumukubra ang mga manalanggot sa kanilang kita.",
+    {
+      "entities": [
+        [
+          77,
+          88,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dahil kumukubra ang karamihan sa kinita ng tuba, mababayaran din ang mga utang mula sa tindahan.",
+    {
+      "entities": [
+        [
+          43,
+          47,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Makikita na maraming paninda sa paligid at minsan ay mayroong sabong na magaganap.",
+    {
+      "entities": [
+        [
+          62,
+          68,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nagkakaroon ng kasiyahan ang lahat hanggang umaabot ito sa inuman, sayawan, kantahan at marami pang iba.",
+    {
+      "entities": [
+        [
+          59,
+          65,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang Pagbuo ng Alayon.",
+    {
+      "entities": [
+        [
+          14,
+          20,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang makalumang paggawa ng bahay ng mga Oslobanon ay nagsisimula sa pagbuo ng alayon.",
+    {
+      "entities": [
+        [
+          39,
+          48,
+          "CUL"
+        ],
+        [
+          77,
+          83,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang konsepto ng alayon ay isang representasyon ng pagkakaisa ng mga Oslobanon.",
+    {
+      "entities": [
+        [
+          16,
+          22,
+          "CUL"
+        ],
+        [
+          68,
+          77,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bilang mga Oslobanon, malakas ang pakikipag-ugnayan at malapit sa isaâ€™t isa ang mga Oslobanon.",
+    {
+      "entities": [
+        [
+          11,
+          20,
+          "CUL"
+        ],
+        [
+          86,
+          95,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nagkakaroon ng koneksyon at relasyon ang bawat isa at nabubuo ang mga makabuluhang pakikipagkapwa-tao.",
+    {
+      "entities": [
+        [
+          83,
+          101,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hindi maipagkakaila na ang pakikisama at pakikipagkapuwa-tao ay isang katangian ng mga Pilipino lalo na ng mga Oslobanon.",
+    {
+      "entities": [
+        [
+          87,
+          95,
+          "CUL"
+        ],
+        [
+          111,
+          120,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang mga sumusunod ay ang mga palihi na inilalagay sa ilalim ng hukay bago i-ugbok ang unang haligi ng bahay at mga kahulugan nito.",
+    {
+      "entities": [
+        [
+          29,
+          35,
+          "CUL"
+        ],
+        [
+          74,
+          81,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ikalawa, ang paglalagay ng dahon ng Pitugo na binenditahan ng banal na tubig sa Linggo ng Palaspas na nangangahulugan sa paniniwala ng Romano Katoliko ang pagbabasbas ng banal na tubig sa bahay.",
+    {
+      "entities": [
+        [
+          27,
+          42,
+          "CUL"
+        ],
+        [
+          46,
+          58,
+          "CUL"
+        ],
+        [
+          62,
+          76,
+          "CUL"
+        ],
+        [
+          80,
+          98,
+          "CUL"
+        ],
+        [
+          121,
+          150,
+          "CUL"
+        ],
+        [
+          155,
+          184,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ikatlo, ang paglalagay ng dalo-dalo sa tubig at ang habol- habol sa dagat na pinaniniwalaan na ang mga bagay na ito ay malamig.",
+    {
+      "entities": [
+        [
+          26,
+          35,
+          "CUL"
+        ],
+        [
+          52,
+          64,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ikaapat, ang paglalagay ng lugas o piraso ng mais na nangangahulugang hindi mauubusan ng pagkain ang tirahan.",
+    {
+      "entities": [
+        [
+          27,
+          32,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ayon sa tagapagsalaysay, ilan lamang ito sa mga halimbawa ng mga palihi na inilalagay sa ugbok ng bahay na ang tanging hangad ay magkaroon ng kapayapaan at katiwasayan sa tahanan.",
+    {
+      "entities": [
+        [
+          65,
+          71,
+          "CUL"
+        ],
+        [
+          89,
+          94,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pagkatapos ilagay ang palihi, ipinupuwesto na ang unang haligi at sinisimulan na ang pagbuo ng buong bahay.",
+    {
+      "entities": [
+        [
+          22,
+          28,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karamihan sa mga sinaunang bahay ay gumagamit ng mga sinibit bilang bubong.",
+    {
+      "entities": [
+        [
+          53,
+          60,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Gumagamit naman ng mga palapad ang iba bilang dingding ng bahay at ang paggamit ng salog na kawayan bilang sahig.",
+    {
+      "entities": [
+        [
+          23,
+          30,
+          "CUL"
+        ],
+        [
+          83,
+          88,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ipinapaalam naman sa inang nagbubuntis ang tungkol sa pagpupusta.",
+    {
+      "entities": [
+        [
+          54,
+          64,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa panghuhula ng kasarian ng bata, mayroong pusta na pinagdedesisyonan ng dalawang pangkat.",
+    {
+      "entities": [
+        [
+          3,
+          13,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang grupong matatalo ay magdadala ng putaheng pang ulam at kanin habang ang mananalo naman ay magdadala lang ng inumin sa araw na ipagdaraos ang pusta.",
+    {
+      "entities": [
+        [
+          145,
+          150,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa puntong ito, alalamin na ng dalawang grupo ang panalo at talunan sa pustahan kaya pinagdedesisyonan na kung kailan magaganap ang pagdiriwang ng buhiâ€™g pusta.",
+    {
+      "entities": [
+        [
+          147,
+          155,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa araw ng pagdiriwang, tinutupad ng dalawang grupo ang napagkasunduang pusta.",
+    {
+      "entities": [
+        [
+          72,
+          77,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Samantala, ang mga magulang ng bata ay naghahanda rin ng kaunting salosalo para sa mga bisita.",
+    {
+      "entities": [
+        [
+          66,
+          74,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Inihahanda sa rituwal na ito ang isang basong tuba at isang garapon na may bulaklak.",
+    {
+      "entities": [
+        [
+          14,
+          21,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sinisimulan ang rituwal sa pagpasa ng bata mula sa ina papunta sa unang miyembro ng panalong grupo.",
+    {
+      "entities": [
+        [
+          16,
+          23,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang natirang tuba ay ibinubuhos sa garapong may bulaklak sabay hulog ng barya bilang pag-aalay para sa bata.",
+    {
+      "entities": [
+        [
+          13,
+          17,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ipapasa naman sa susunod na miyembro ang bata at gagawin ang pagbibigay ng minimithi o nais, pag-inom ng tuba na hindi inuubos, pagbuhos ng natirang tuba at pag-aalay ng barya sa may garapong may bulaklak hanggang matapos ang lahat ng miyembro.",
+    {
+      "entities": [
+        [
+          149,
+          153,
+          "CUL"
+        ],
+        [
+          157,
+          175,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nang makabalik na ang bata sa mga magulang iniinom nang diretso at walang hinto ng mga magulang ang mga naipong tuba sa isang garapong may bulaklak at barya.",
+    {
+      "entities": [
+        [
+          112,
+          116,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang pag-ariya ay ang paglalagay ng mga bubo sa dagat sa tamang lugar nito.",
+    {
+      "entities": [
+        [
+          4,
+          13,
+          "CUL"
+        ],
+        [
+          39,
+          43,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ito ay nangangailangan ng mabuti at magaling na utak sa pagsasaulo kung saan inilalagay ang bubo sa dagat.",
+    {
+      "entities": [
+        [
+          92,
+          96,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dinadala ang mga bubo sa baybayin o tinatawag na piliw.",
+    {
+      "entities": [
+        [
+          17,
+          21,
+          "CUL"
+        ],
+        [
+          25,
+          33,
+          "CUL"
+        ],
+        [
+          49,
+          54,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang bawat bubo ay pinauusukan ng kamangyan na bilang pabango para sa mga isda.",
+    {
+      "entities": [
+        [
+          10,
+          14,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Isa-isang dinadala ang mga bubo sakay ng sakayan papuntang lawud ng dagat.",
+    {
+      "entities": [
+        [
+          27,
+          31,
+          "CUL"
+        ],
+        [
+          59,
+          64,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Upang maalala ang lugar ng pinaghulugan ng bubo ay mayroong mga palatandaan na sinusunod- ang paggamit ng tulungdon at hilawron.",
+    {
+      "entities": [
+        [
+          43,
+          47,
+          "CUL"
+        ],
+        [
+          106,
+          115,
+          "CUL"
+        ],
+        [
+          119,
+          127,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ihuhulog ang bubo sa tulong ng gabay ng tulungdon.",
+    {
+      "entities": [
+        [
+          13,
+          17,
+          "CUL"
+        ],
+        [
+          40,
+          49,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang tulungdon ay tumutukoy sa mga gabay na makikita sa harapan na maaaring malaking puno, bahay at iba pa.",
+    {
+      "entities": [
+        [
+          4,
+          13,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pagkatapos mahanap ang tulungdon, gagamitin naman ang gabay ng hilawron.",
+    {
+      "entities": [
+        [
+          23,
+          32,
+          "CUL"
+        ],
+        [
+          63,
+          71,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pagbabasehan ng hilawron ang mga gabay na katabi sa simbahan ng Oslob.",
+    {
+      "entities": [
+        [
+          16,
+          24,
+          "CUL"
+        ],
+        [
+          64,
+          69,
+          "LOC"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang salitang pamukad ay galing sa salitang â€˜bukadâ€™ na ang ibig sabihin â€˜kuhaâ€™ kaya ang pamukad ay ang pagkuha sa mga nahuling isda.",
+    {
+      "entities": [
+        [
+          13,
+          20,
+          "CUL"
+        ],
+        [
+          95,
+          102,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pagkatapos ng isang linggo mula sa pag ariya ng mga bubo, binibisita ito upang tingnan kung ang mga bubo ay may suhut, ang tawag sa mga isdang nahuli sa bubo.",
+    {
+      "entities": [
+        [
+          52,
+          56,
+          "CUL"
+        ],
+        [
+          100,
+          104,
+          "CUL"
+        ],
+        [
+          112,
+          117,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang unang araw ng pamukad ay tinatawag na patunga.",
+    {
+      "entities": [
+        [
+          18,
+          25,
+          "CUL"
+        ],
+        [
+          42,
+          49,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mahalaga ang unang araw ng pamukad bilang parte sa palihi.",
+    {
+      "entities": [
+        [
+          27,
+          34,
+          "CUL"
+        ],
+        [
+          51,
+          57,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang suhut na makukuha sa unang araw o patunga ay kailangang kainin ang karamihan.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "CUL"
+        ],
+        [
+          38,
+          45,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ito ay isang palihi para maging masagana at maraming suhut pa ang mga susunod na pamukad.",
+    {
+      "entities": [
+        [
+          13,
+          19,
+          "CUL"
+        ],
+        [
+          53,
+          58,
+          "CUL"
+        ],
+        [
+          81,
+          88,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang panagbo ay ang pagsalubong ng mga tao sa mga taong namukad.",
+    {
+      "entities": [
+        [
+          4,
+          11,
+          "CUL"
+        ],
+        [
+          55,
+          62,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Isa itong pagdiriwang na nangyayari sa baybayin habang hinihintay ang mga namukad.",
+    {
+      "entities": [
+        [
+          39,
+          47,
+          "CUL"
+        ],
+        [
+          74,
+          81,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kusa lamang ang pagdalo ng mga tao sa panagbo at ang tawag sa mga taong dumalo sa panagbo ay nanagbo.",
+    {
+      "entities": [
+        [
+          38,
+          45,
+          "CUL"
+        ],
+        [
+          82,
+          89,
+          "CUL"
+        ],
+        [
+          93,
+          100,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Maaaring magdala ng ambag na mga inumin o kanin ang mga nanagbo.",
+    {
+      "entities": [
+        [
+          56,
+          63,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ipinapaalala ng tagapagsalalay na bawal magdala ng kahit anong ulam kapag nanagbo, tanging inumin at kanin lamang ang dadalhin.",
+    {
+      "entities": [
+        [
+          74,
+          81,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ipinaliwanag ng tagapagsalaysay na naniniwala ang mga nakatatanda na ang mga suhut mula sa bubo ay sapat na para gawing ulam sa pagdiriwang.",
+    {
+      "entities": [
+        [
+          77,
+          82,
+          "CUL"
+        ],
+        [
+          91,
+          95,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pinaniniwalaan na ang pagdadala ng ulam ay kawalan ng tiwala sa magiging suhut ng bubo.",
+    {
+      "entities": [
+        [
+          73,
+          78,
+          "CUL"
+        ],
+        [
+          82,
+          86,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang mga namukad ay dapat maging mapagbigay sa mga suhut na nakuha kahit maliit lamang ang suhut na nakuha.",
+    {
+      "entities": [
+        [
+          8,
+          15,
+          "CUL"
+        ],
+        [
+          50,
+          55,
+          "CUL"
+        ],
+        [
+          90,
+          95,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hindi dapat maging makasarili sa mga nakuhang suhut dahil sa paniniwalang magiging makasarili rin ang dagat sa susunod na pamukad.",
+    {
+      "entities": [
+        [
+          46,
+          51,
+          "CUL"
+        ],
+        [
+          122,
+          129,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang mga nanagbo na nagdadala ng mga ambag ay binibigyan din ng kaunting parte ng isda na nakuha ng mga namukad.",
+    {
+      "entities": [
+        [
+          8,
+          15,
+          "CUL"
+        ],
+        [
+          103,
+          110,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ito ang tinatawag na pagbibigay ng bahin.",
+    {
+      "entities": [
+        [
+          35,
+          40,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ang mga natirang isda mula sa pagdiriwang at pagbibigay ng bahin ay hinahati ng mga namukad at naiuuwi sa sariling tahanan.",
+    {
+      "entities": [
+        [
+          59,
+          64,
+          "CUL"
+        ],
+        [
+          84,
+          91,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Isa ang pamukad at panagbo sa mahahalagang pangkabuhayan at pagdiriwang na talagang ipinagmamalaki ng mga Oslobanon.",
+    {
+      "entities": [
+        [
+          8,
+          15,
+          "CUL"
+        ],
+        [
+          19,
+          26,
+          "CUL"
+        ],
+        [
+          106,
+          115,
+          "CUL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sa kasalukuyan, kaunti na lamang ang may kaalaman sa kaugalian at paggawa ng bubo.",
+    {
+      "entities": [
+        [
+          77,
+          81,
+          "CUL"
+        ]
+      ]
+    }
+  ]
+]

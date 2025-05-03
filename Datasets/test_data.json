@@ -1,0 +1,1612 @@
+[
+    [
+        "Upang makokolekta ng maraming tuba, maraming puno ng niyog ang kakailanganin upang maging salanggutan.",
+        {
+            "entities": [
+                [
+                    30,
+                    34,
+                    "CUL"
+                ],
+                [
+                    90,
+                    101,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mas maraming bÃ¹bÃ¹ kapag maraming salanggutan.",
+        {
+            "entities": [
+                [
+                    13,
+                    18,
+                    "CUL"
+                ],
+                [
+                    35,
+                    46,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ngunit dahil na rin sa putukan sa Dulumbayan, pumunta roon ang mga Katipunero na dapat sana ay nananatiling nakatanod sa punong tulay.",
+        {
+            "entities": [
+                [
+                    34,
+                    44,
+                    "LOC"
+                ],
+                [
+                    67,
+                    77,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Bagaman mayroong kawalan ng pamantayan at ng organisadong plano sa pagdaloy ng industriyang ito pati na rin ng kaalamang teknikal sa pag-angat ng gawaing pangkabuhayan, hindi matatawaran ang kalidad ng mga palayok na gawa sa lalawigan.",
+        {
+            "entities": [
+                [
+                    206,
+                    213,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Malaki na ang pagbabago ng presyo ng bol sa paglipas ng panahon.",
+        {
+            "entities": [
+                [
+                    37,
+                    40,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "May katangian ito ng paghahasahapag sa bayan ng pagkain.",
+        {
+            "entities": [
+                [
+                    21,
+                    35,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Gayumpaman, binomba pa rin ito ng mga Hapon at nasakop noong 2 Enero 1942.",
+        {
+            "entities": [
+                [
+                    38,
+                    43,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Nasa pagitan ng Taguig at Pasig ang Pateros.",
+        {
+            "entities": [
+                [
+                    16,
+                    22,
+                    "LOC"
+                ],
+                [
+                    26,
+                    31,
+                    "LOC"
+                ],
+                [
+                    36,
+                    43,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Bakit nanatili ang salita kahit nawala ang salitang babaylan sa pang-araw-araw na talasalitaan ng mga karaniwang mamamayang wala sa larangan ng akademya?",
+        {
+            "entities": [
+                [
+                    52,
+                    60,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Para sa kanila, si Hen. Crispulo Aguinaldo diumano ang nanguna sa pag-atake na sinundan naman ni Teodoro Agoncillo sa kanyang Revolt of the Masses.",
+        {
+            "entities": [
+                [
+                    19,
+                    42,
+                    "PER"
+                ],
+                [
+                    97,
+                    114,
+                    "PER"
+                ],
+                [
+                    126,
+                    146,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Nagsimulang bumaba ang puwersang panlupa ng mga Hapon sa iba’t ibang punto sa Luzon, Visayas, at Mindanao.",
+        {
+            "entities": [
+                [
+                    23,
+                    53,
+                    "CUL"
+                ],
+                [
+                    78,
+                    83,
+                    "LOC"
+                ],
+                [
+                    85,
+                    92,
+                    "LOC"
+                ],
+                [
+                    97,
+                    105,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ipinapaalam naman sa inang nagbubuntis ang tungkol sa pagpupusta.",
+        {
+            "entities": [
+                [
+                    54,
+                    64,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Nabuo ang kaugalian at pagdiriwang na ito dahil sa tubÃ¢, ang inuming mula sa puno ng niyog.",
+        {
+            "entities": [
+                [
+                    51,
+                    55,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ang mga nanagbo na nagdadala ng mga ambag ay binibigyan din ng kaunting parte ng isda na nakuha ng mga namukad.",
+        {
+            "entities": [
+                [
+                    8,
+                    15,
+                    "CUL"
+                ],
+                [
+                    103,
+                    110,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Kailangang linawin na si Hen. Miong ang nanguna sa pagsalakay sa dalawang bayan, taliwas sa binanggit ng dalawang heneral ng Magdiwang na sina Artemio Ricarte (1927) at Santiago Alvarez (1928).",
+        {
+            "entities": [
+                [
+                    25,
+                    35,
+                    "PER"
+                ],
+                [
+                    125,
+                    134,
+                    "LOC"
+                ],
+                [
+                    143,
+                    158,
+                    "PER"
+                ],
+                [
+                    169,
+                    185,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Natutunan niya ang mga gawaing bukid mula sa mga Ifugao, Igorot, Apayao, Kalinga.",
+        {
+            "entities": [
+                [
+                    49,
+                    55,
+                    "CUL"
+                ],
+                [
+                    57,
+                    63,
+                    "CUL"
+                ],
+                [
+                    65,
+                    71,
+                    "CUL"
+                ],
+                [
+                    73,
+                    80,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Naisasagawa ito sa pamamagitan ng paglulunsad nila ng rituwal ng panaganito o tigaman.",
+        {
+            "entities": [
+                [
+                    54,
+                    61,
+                    "CUL"
+                ],
+                [
+                    65,
+                    75,
+                    "CUL"
+                ],
+                [
+                    78,
+                    85,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Dahil kumukubra ang karamihan sa kinita ng tuba, mababayaran din ang mga utang mula sa tindahan.",
+        {
+            "entities": [
+                [
+                    43,
+                    47,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Bilang mga Oslobanon, malakas ang pakikipag-ugnayan at malapit sa isaâ€™t isa ang mga Oslobanon.",
+        {
+            "entities": [
+                [
+                    11,
+                    20,
+                    "CUL"
+                ],
+                [
+                    86,
+                    95,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Katumbas ito ng salitang tiklos o burububligay sa Leyte at Samar at bayanihan ng wikang Tagalog.",
+        {
+            "entities": [
+                [
+                    25,
+                    31,
+                    "CUL"
+                ],
+                [
+                    34,
+                    46,
+                    "CUL"
+                ],
+                [
+                    50,
+                    55,
+                    "LOC"
+                ],
+                [
+                    59,
+                    64,
+                    "LOC"
+                ],
+                [
+                    68,
+                    77,
+                    "CUL"
+                ],
+                [
+                    81,
+                    95,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Dahil sa dami at laki ng puwersang Espanyol sa Napindan, hindi na nagawang masupil kahit na nagtulong-tulungan sila.",
+        {
+            "entities": [
+                [
+                    25,
+                    43,
+                    "CUL"
+                ],
+                [
+                    47,
+                    55,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ang salapang ay isang uri ng mahabang sibat na may matulis na bakal o kawayan sa gitna at napaliligiran ng mga matutulis na kawayan sa isang pabilog na hugis.",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Upang maalala ang lugar ng pinaghulugan ng bubo ay mayroong mga palatandaan na sinusunod- ang paggamit ng tulungdon at hilawron.",
+        {
+            "entities": [
+                [
+                    43,
+                    47,
+                    "CUL"
+                ],
+                [
+                    106,
+                    115,
+                    "CUL"
+                ],
+                [
+                    119,
+                    127,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Higit na madali ang mamaril dahil permanente ang puwersang magpupukol sa balang sibat sa kaso ng busog, at sa bala naman sa kaso ng baril.",
+        {
+            "entities": [
+                [
+                    97,
+                    102,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Bagaman di karaniwan, maaari ding idaing ang tilapia at guraming totoo.",
+        {
+            "entities": [
+                [
+                    34,
+                    40,
+                    "CUL"
+                ],
+                [
+                    45,
+                    52,
+                    "CUL"
+                ],
+                [
+                    56,
+                    71,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Nagmula sa kabundukan, walang takot na lumulusob ang mga kasapi ng Confradia sa mga Espanyol pagkabasbas sa kanila ni Hermano Pule.",
+        {
+            "entities": [
+                [
+                    67,
+                    76,
+                    "CUL"
+                ],
+                [
+                    84,
+                    92,
+                    "CUL"
+                ],
+                [
+                    118,
+                    130,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Habang kinukuha ang mga isda ay tuloy tiklop at ayos na rin ng pante para sa susunod na paghagis.",
+        {
+            "entities": [
+                [
+                    63,
+                    68,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ayon sa tagapagsalaysay, ilan lamang ito sa mga halimbawa ng mga palihi na inilalagay sa ugbok ng bahay na ang tanging hangad ay magkaroon ng kapayapaan at katiwasayan sa tahanan.",
+        {
+            "entities": [
+                [
+                    65,
+                    71,
+                    "CUL"
+                ],
+                [
+                    89,
+                    94,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Binabalot ito sa dahon ng saging saka isinasalang sa baga hanggang maluto.",
+        {
+            "entities": [
+                [
+                    17,
+                    32,
+                    "LOC"
+                ],
+                [
+                    38,
+                    57,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Kasunod sa sariling pagsusuri ni Beyer sa koleksyon, ang mga tektite ang naging pinakamatingkad, dahil naniniwala siya sa kanilang pinagmulang ekstraterestriyal.",
+        {
+            "entities": [
+                [
+                    33,
+                    38,
+                    "PER"
+                ],
+                [
+                    61,
+                    68,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mga matatandang babae silang namumuno sa mga rosaryo at iba pang dasal ng Katolikong Simbahan sa mga bayan at liblib na pook sa Leyte at Samar.",
+        {
+            "entities": [
+                [
+                    45,
+                    52,
+                    "CUL"
+                ],
+                [
+                    74,
+                    93,
+                    "CUL"
+                ],
+                [
+                    128,
+                    133,
+                    "LOC"
+                ],
+                [
+                    137,
+                    142,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Inilarawan niya itong mga babaeng nagsasagawa ng rituwal kung kabilugan ng buwan.",
+        {
+            "entities": [
+                [
+                    49,
+                    56,
+                    "CUL"
+                ],
+                [
+                    62,
+                    80,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Sa araw ng pagdiriwang, tinutupad ng dalawang grupo ang napagkasunduang pusta.",
+        {
+            "entities": [
+                [
+                    72,
+                    77,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mistula itong sibat na ipupukol mula sa mga bangka o kinatatayuan.",
+        {
+            "entities": [
+                [
+                    14,
+                    19,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ito ang naging dahilan upang mabuksan ang daan para sa mga rumespondeng guardia civil mula Pasig.",
+        {
+            "entities": [
+                [
+                    72,
+                    85,
+                    "CUL"
+                ],
+                [
+                    91,
+                    96,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ikinakabit ang sanggab nito na may tongog sa loob na siyang sasalo sa mga pumapatak na tulo ng tuba.",
+        {
+            "entities": [
+                [
+                    15,
+                    22,
+                    "CUL"
+                ],
+                [
+                    35,
+                    41,
+                    "CUL"
+                ],
+                [
+                    95,
+                    99,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Sa tingin naman ni Sastron, ang pag-atake ni Hen. Miong sa Pateros (at Taguig) ay may kinalaman sa ugnayan ng komunikasyon nila ni Hen. Mariano Llanera.",
+        {
+            "entities": [
+                [
+                    19,
+                    26,
+                    "PER"
+                ],
+                [
+                    45,
+                    55,
+                    "PER"
+                ],
+                [
+                    59,
+                    66,
+                    "LOC"
+                ],
+                [
+                    71,
+                    77,
+                    "LOC"
+                ],
+                [
+                    131,
+                    151,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tiyak, nag-uugat pa ang pamamaraang ito sa sinaunang panahon.",
+        {
+            "entities": [
+                [
+                    43,
+                    60,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Karaniwang maliliit na isdang-tabang ang ihinahalabos gaya ng ayungin, biya, aligasin, karpa, tilapia, at kitang.",
+        {
+            "entities": [
+                [
+                    23,
+                    36,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ang orihinal na plano ng mga Katipunero sa Pateros ay harangan ang mga daraanan ng mga kalaban na maaaring rumesponde matapos ang agaw-armas sa tribunal.",
+        {
+            "entities": [
+                [
+                    29,
+                    39,
+                    "CUL"
+                ],
+                [
+                    43,
+                    50,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Kailangan silang alisin sa landas ng mga prayleng nagtuturo ng Kristiyanismo dahil sa taliwas na paniniwala sa relihiyong nagmula sa Kanluran.",
+        {
+            "entities": [
+                [
+                    41,
+                    49,
+                    "CUL"
+                ],
+                [
+                    63,
+                    76,
+                    "CUL"
+                ],
+                [
+                    133,
+                    141,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ang mga nalikom na tuba mula sa ibaâ€™t ibang salanggutan ay dadalhin sa tubaan.",
+        {
+            "entities": [
+                [
+                    19,
+                    23,
+                    "CUL"
+                ],
+                [
+                    73,
+                    79,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Sila ang kumakatawan at nagtataguyod ng mga paniniwala ng lipunang Bisaya bago pa man dumating ang mga mananakop na dayuhan.",
+        {
+            "entities": [
+                [
+                    67,
+                    73,
+                    "CUL"
+                ],
+                [
+                    103,
+                    123,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pumaimbulog ang salitang santigaman sa pang-araw-araw na buhay ng mga mamamayang Katolikong Bisaya, higit na may pinakamalaking populasyon sa Kabisayaan, dala ang isang lihim na siyang tutuklasin sa kasaysayan sa papel na ito.",
+        {
+            "entities": [
+                [
+                    25,
+                    35,
+                    "CUL"
+                ],
+                [
+                    81,
+                    98,
+                    "CUL"
+                ],
+                [
+                    142,
+                    152,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mahalaga ang papel sa paraang makapag-aambag ito tungo sa malawakang pag-unawa kung paano inilarawan ang lalawigan ng Batangas kaugnay sa mga gawaing pang-ekonomiya, at ng mga sinaunang hanapbuhay noong panahon ng Amerikano.",
+        {
+            "entities": [
+                [
+                    118,
+                    126,
+                    "LOC"
+                ],
+                [
+                    176,
+                    196,
+                    "CUL"
+                ],
+                [
+                    203,
+                    223,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ang bawat bol ng bÃ¹bÃ¹ ay tutumbasan ng halagang perang kinita mula sa pagbebenta ng tuba.",
+        {
+            "entities": [
+                [
+                    10,
+                    13,
+                    "CUL"
+                ],
+                [
+                    17,
+                    22,
+                    "CUL"
+                ],
+                [
+                    86,
+                    90,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Bagama’t pitumput limang taon na ang lumipas mula nang maranasan ng Pilipinas ang Ikalawang Digmaang Pandaigdig, patuloy pa ring nabubuhay ang mga alaala ng digmaan gamit ang mga nasulat na tala, ilang mga pelikula, at, mangyari pa, mga retrato.",
+        {
+            "entities": [
+                [
+                    68,
+                    77,
+                    "LOC"
+                ],
+                [
+                    82,
+                    111,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ang kabuluhan at katangian nila sa lipunang Bisaya ang banta sa tuluyang panghihimasok at pagpapalit ng paniniwalang katutubo tungo sa Kanluraning relihiyon.",
+        {
+            "entities": [
+                [
+                    44,
+                    50,
+                    "CUL"
+                ],
+                [
+                    104,
+                    125,
+                    "CUL"
+                ],
+                [
+                    135,
+                    156,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ngunit sa Pamarawan ay matutuklasan ng mga di nakaaalam ang lapit sa tubig, linang, at salimuot ng paggawa ng bangka at pangingisda, at linamnam ng lutuing isda ng mga taga-Malolos.",
+        {
+            "entities": [
+                [
+                    10,
+                    19,
+                    "LOC"
+                ],
+                [
+                    168,
+                    180,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Dito papasok ang konseptong sukli.",
+        {
+            "entities": [
+                [
+                    28,
+                    33,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Kasunod ng kalamidad na ito, ginawa ni Beyer ang lahat na pagsisikap upang protektahan ang naiwan sa museo.",
+        {
+            "entities": [
+                [
+                    39,
+                    44,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Maraming paniniwala, kaugalian at tradisyon ang lungsod na ipinagmamalaki ng mga Oslobanon na naging bahagi ng pagkakakilanlan ng lugar lalo na sa mga pagpapahalaga ng ibaâ€™t ibang rituwal at pagdiriwang.",
+        {
+            "entities": [
+                [
+                    81,
+                    90,
+                    "CUL"
+                ],
+                [
+                    182,
+                    189,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Paanong naisingit ito sa pag-aantanda?",
+        {
+            "entities": [
+                [
+                    25,
+                    37,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ang Bataan ang nagsilbing huling linya ng depensa ng mga Pilipino at Amerikanong naipit ng mga puwersang Hapong mula hilaga at silangang Luzon.",
+        {
+            "entities": [
+                [
+                    4,
+                    10,
+                    "LOC"
+                ],
+                [
+                    57,
+                    65,
+                    "CUL"
+                ],
+                [
+                    95,
+                    111,
+                    "CUL"
+                ],
+                [
+                    117,
+                    142,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Siya ang nasisigurong ligtas ang mga maiiwan sa bahay ng mandirigmang mangangayaw o mangangaso.",
+        {
+            "entities": [
+                [
+                    70,
+                    81,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Kung sinigang sa bulaklak, murang bunga, o dahon ng sampalok, ang isinasahog na gulay ay kangkong, siling labuyo at labanos.",
+        {
+            "entities": [
+                [
+                    5,
+                    25,
+                    "CUL"
+                ],
+                [
+                    66,
+                    76,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ang natirang tuba ay ibinubuhos sa garapong may bulaklak sabay hulog ng barya bilang pag-aalay para sa bata.",
+        {
+            "entities": [
+                [
+                    13,
+                    17,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pinakamataas na antas ng panaganito ang tigaman.",
+        {
+            "entities": [
+                [
+                    25,
+                    35,
+                    "CUL"
+                ],
+                [
+                    40,
+                    47,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Isang bahagi ng ilog, sapa o isang lambak o balon ang karaniwang nililimas o pinatutuyuan ng tubig sa pamamagitan ng pagtabo nito gamit ang balde o timba.",
+        {
+            "entities": [
+                [
+                    65,
+                    74,
+                    "CUL"
+                ],
+                [
+                    140,
+                    153,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ginamit ng mga Hapon ang mga pahayagan, paaralan, mga pagpupulong at iba pa upang hikayatin ang mga Pilipino na yakapin ang “tunay na kulturang Silanganin” na pinagbabahagian nila ng mga Hapon.",
+        {
+            "entities": [
+                [
+                    29,
+                    38,
+                    "CUL"
+                ],
+                [
+                    100,
+                    108,
+                    "CUL"
+                ],
+                [
+                    125,
+                    154,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ikalawa, ang paglalagay ng dahon ng Pitugo na binenditahan ng banal na tubig sa Linggo ng Palaspas na nangangahulugan sa paniniwala ng Romano Katoliko ang pagbabasbas ng banal na tubig sa bahay.",
+        {
+            "entities": [
+                [
+                    27,
+                    42,
+                    "CUL"
+                ],
+                [
+                    46,
+                    58,
+                    "CUL"
+                ],
+                [
+                    62,
+                    76,
+                    "CUL"
+                ],
+                [
+                    80,
+                    98,
+                    "CUL"
+                ],
+                [
+                    121,
+                    150,
+                    "CUL"
+                ],
+                [
+                    155,
+                    184,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Anupa’t pinunong espirituwal ang mga babaylan.",
+        {
+            "entities": [
+                [
+                    8,
+                    28,
+                    "CUL"
+                ],
+                [
+                    37,
+                    45,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Sa kabuoan, tinukoy nina Telesforo Canseco, Carlos Ronquillo, Jose Pagtakhan, Gregorio Flores, at Tomas Espejo na si Hen. Aguinaldo ang namuno sa pag-atakeng ito.",
+        {
+            "entities": [
+                [
+                    25,
+                    42,
+                    "PER"
+                ],
+                [
+                    44,
+                    60,
+                    "PER"
+                ],
+                [
+                    62,
+                    76,
+                    "PER"
+                ],
+                [
+                    78,
+                    93,
+                    "PER"
+                ],
+                [
+                    98,
+                    110,
+                    "PER"
+                ],
+                [
+                    117,
+                    131,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Si Padre Taniag ay wala sa listahan ng mga naging kura paroko ng Taguig ngunit naitalang nanilbihan sa Taytay noong 1911 at namatay sa Pasig noong 1922 sa edad na 61.",
+        {
+            "entities": [
+                [
+                    3,
+                    15,
+                    "PER"
+                ],
+                [
+                    50,
+                    61,
+                    "CUL"
+                ],
+                [
+                    65,
+                    71,
+                    "LOC"
+                ],
+                [
+                    103,
+                    109,
+                    "LOC"
+                ],
+                [
+                    135,
+                    140,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Kamay ang pinakapayak na ginagamit panghuli ng isda ng mga taga-Pamarawan.",
+        {
+            "entities": [
+                [
+                    59,
+                    73,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mahalaga ang unang araw ng pamukad bilang parte sa palihi.",
+        {
+            "entities": [
+                [
+                    27,
+                    34,
+                    "CUL"
+                ],
+                [
+                    51,
+                    57,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Nagkakaroon ng apat na balanse sa isang taon ang tubaan.",
+        {
+            "entities": [
+                [
+                    49,
+                    55,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Dinadala ang mga bubo sa baybayin o tinatawag na piliw.",
+        {
+            "entities": [
+                [
+                    17,
+                    21,
+                    "CUL"
+                ],
+                [
+                    25,
+                    33,
+                    "CUL"
+                ],
+                [
+                    49,
+                    54,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ngunit madali namang makalikha ng sima.",
+        {
+            "entities": [
+                [
+                    34,
+                    38,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Sa lagat, nililinis muna ang isda.",
+        {
+            "entities": [
+                [
+                    3,
+                    8,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ginagamit ng mga mamaratbat sa pangunguna sa pagdarasal ng rosaryo ang santigaman.",
+        {
+            "entities": [
+                [
+                    17,
+                    27,
+                    "CUL"
+                ],
+                [
+                    59,
+                    66,
+                    "CUL"
+                ],
+                [
+                    71,
+                    81,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Gumagamit naman ng mga palapad ang iba bilang dingding ng bahay at ang paggamit ng salog na kawayan bilang sahig.",
+        {
+            "entities": [
+                [
+                    23,
+                    30,
+                    "CUL"
+                ],
+                [
+                    83,
+                    88,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "May sawsawang mangga na ibinabad sa tubig na may asin na tinatawag na buro.",
+        {
+            "entities": [
+                [
+                    70,
+                    74,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Hindi na niya mapalalawig pa ang pag-aaral sa babaylan dahil ikinulong na siya sa Espanya mula sa Dapitan, ibinalik sa Pilipinas, at binaril sa Bagumbayan noong 1896.",
+        {
+            "entities": [
+                [
+                    46,
+                    54,
+                    "CUL"
+                ],
+                [
+                    82,
+                    89,
+                    "LOC"
+                ],
+                [
+                    98,
+                    105,
+                    "LOC"
+                ],
+                [
+                    119,
+                    128,
+                    "LOC"
+                ],
+                [
+                    144,
+                    154,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Kusa lamang ang pagdalo ng mga tao sa panagbo at ang tawag sa mga taong dumalo sa panagbo ay nanagbo.",
+        {
+            "entities": [
+                [
+                    38,
+                    45,
+                    "CUL"
+                ],
+                [
+                    82,
+                    89,
+                    "CUL"
+                ],
+                [
+                    93,
+                    100,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Palaging sa kainan sa mahabang dulang o hapag ng bayan ang dulo ng lahat ng mga aktibidad na ito.",
+        {
+            "entities": [
+                [
+                    31,
+                    37,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ang mga umutang ng tuba ay binibigyan ng resibo ng utang ng bawat mag-alatang na nagpautang.",
+        {
+            "entities": [
+                [
+                    19,
+                    23,
+                    "CUL"
+                ],
+                [
+                    66,
+                    77,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Itinuring na simple at makaluma ang pamamaraan ng paggawa ng palayok sa Batangas.",
+        {
+            "entities": [
+                [
+                    61,
+                    68,
+                    "CUL"
+                ],
+                [
+                    72,
+                    80,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ang baril na de-hangin (airgun) ay gayon din.",
+        {
+            "entities": [
+                [
+                    4,
+                    22,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Kailangan ay malakas ang braso ng mangingisda upang lumadlad o bumuka nang husto ang pante pagbagsak nito sa ibabaw pa lamang ng tubig.",
+        {
+            "entities": [
+                [
+                    85,
+                    90,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Bagaman ang paggawa ng palayok ay isang kasanayang nahubog na sa maraming taon, ito ay nanatiling isang yumayabong na industriya sa lalawigan.",
+        {
+            "entities": [
+                [
+                    23,
+                    30,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Sa itinakdang araw, ang lahat ng mga kababaihan at kabataan ay sinabihang huwag magsimba samantalang ang mga lalaki naman ay lihim na nagsukbit ng mga patalim o punyal upang patayin ang mga guardia civil matapos ang konsekrasyon—kung saan lahat ay nakaluhod.",
+        {
+            "entities": [
+                [
+                    161,
+                    167,
+                    "CUL"
+                ],
+                [
+                    190,
+                    203,
+                    "CUL"
+                ],
+                [
+                    216,
+                    228,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ang teknolohiyang gamit sa paggawa nito ay dala rin ng mga Amerikano.",
+        {
+            "entities": [
+                [
+                    59,
+                    68,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Lulan sila ng lantsang Otalora na patrolya sa Laguna de Bay sa pangunguna ni Hen. Francisco Galvis.",
+        {
+            "entities": [
+                [
+                    14,
+                    30,
+                    "CUL"
+                ],
+                [
+                    46,
+                    59,
+                    "LOC"
+                ],
+                [
+                    77,
+                    98,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Sa paglalarawan pa ni Flores: \"Ang napipilang mga sibil na ito'y nangagbalik na sakbibi ng di matawarang katakutan sa Taguig.\"",
+        {
+            "entities": [
+                [
+                    22,
+                    28,
+                    "PER"
+                ],
+                [
+                    118,
+                    124,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mabenta ang tuba sa mga panahong mayroong mga pagdiriwang na nagaganap at tuwing tag- init sapagkat nakakauhaw ang panahon.",
+        {
+            "entities": [
+                [
+                    12,
+                    16,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tulad ng inaasahan sa isang bansang nasa ilalim ng batas militar, maraming sundalo ang gumawa ng mga krimen tulad ng panggagahasa at pagpatay.",
+        {
+            "entities": [
+                [
+                    51,
+                    64,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ang balanse ay ang araw na makukuha ng mga manalanggot ang perang katumbas sa bÃ¹bÃ¹ araw-araw.",
+        {
+            "entities": [
+                [
+                    43,
+                    54,
+                    "CUL"
+                ],
+                [
+                    78,
+                    83,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Karaniwang ginigilitan o hinihiwaan ang tiyan ng isda upang mas madali at mabilis itong maluto.",
+        {
+            "entities": [
+                [
+                    11,
+                    22,
+                    "CUL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ipapasa naman sa susunod na miyembro ang bata at gagawin ang pagbibigay ng minimithi o nais, pag-inom ng tuba na hindi inuubos, pagbuhos ng natirang tuba at pag-aalay ng barya sa may garapong may bulaklak hanggang matapos ang lahat ng miyembro.",
+        {
+            "entities": [
+                [
+                    149,
+                    153,
+                    "CUL"
+                ],
+                [
+                    157,
+                    175,
+                    "CUL"
+                ]
+            ]
+        }
+    ]
+]
